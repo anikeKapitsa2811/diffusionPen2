@@ -1,0 +1,28 @@
+
+Loaded object type: <class 'list'>
+Total elements: 55556
+
+Type of first element: <class 'tuple'> (length=4)
+thrd_part : 43  fourth_part: /home/konnik/iam_data/words/r06/r06-143/r06-143-04-10
+
+--- Element 0 (image-related) ---
+Type: (256, 64)
+Unknown image element type: <class 'PIL.Image.Image'>
+
+--- Element 1 (text/transcription) ---
+Type: <class 'str'>
+Text: ?
+
+Loaded object type: <class 'list'>
+Total elements: 55556
+
+Type of first element: <class 'tuple'> (length=4)
+thrd_part : 43  fourth_part: /home/konnik/iam_data/words/r06/r06-143/r06-143-04-09
+
+--- Element 0 (image-related) ---
+Type: (256, 64)
+Unknown image element type: <class 'PIL.Image.Image'>
+
+--- Element 1 (text/transcription) ---
+Type: <class 'str'>
+Text: garden

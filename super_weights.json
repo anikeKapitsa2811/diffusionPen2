@@ -1,0 +1,4006 @@
+[
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 13,
+    "index_in_weight": [
+      290,
+      13
+    ],
+    "weight_value": -0.027838557958602905,
+    "max_activation": 1.4999186992645264,
+    "mean_activation": 0.07634301483631134
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 14,
+    "index_in_weight": [
+      79,
+      14
+    ],
+    "weight_value": 0.02793814428150654,
+    "max_activation": 1.672526240348816,
+    "mean_activation": 0.10115489363670349
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 38,
+    "index_in_weight": [
+      184,
+      38
+    ],
+    "weight_value": 0.02788727544248104,
+    "max_activation": 1.6527605056762695,
+    "mean_activation": 0.0959961861371994
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 40,
+    "index_in_weight": [
+      60,
+      40
+    ],
+    "weight_value": -0.027941426262259483,
+    "max_activation": 1.2810156345367432,
+    "mean_activation": 0.07190635800361633
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 54,
+    "index_in_weight": [
+      218,
+      54
+    ],
+    "weight_value": 0.027874164283275604,
+    "max_activation": 1.3062297105789185,
+    "mean_activation": 0.08118459582328796
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 97,
+    "index_in_weight": [
+      11,
+      97
+    ],
+    "weight_value": 0.02789452113211155,
+    "max_activation": 1.9111796617507935,
+    "mean_activation": 0.11862197518348694
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 107,
+    "index_in_weight": [
+      51,
+      107
+    ],
+    "weight_value": -0.027950435876846313,
+    "max_activation": 1.0783361196517944,
+    "mean_activation": 0.06291705369949341
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 113,
+    "index_in_weight": [
+      25,
+      113
+    ],
+    "weight_value": -0.027867309749126434,
+    "max_activation": 2.0032105445861816,
+    "mean_activation": 0.1284014731645584
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 114,
+    "index_in_weight": [
+      200,
+      114
+    ],
+    "weight_value": -0.0279505867511034,
+    "max_activation": 1.6447230577468872,
+    "mean_activation": 0.10674557089805603
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 118,
+    "index_in_weight": [
+      208,
+      118
+    ],
+    "weight_value": -0.027626298367977142,
+    "max_activation": 2.020986795425415,
+    "mean_activation": 0.12944963574409485
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 130,
+    "index_in_weight": [
+      103,
+      130
+    ],
+    "weight_value": -0.027940327301621437,
+    "max_activation": 1.423658847808838,
+    "mean_activation": 0.09042555838823318
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 131,
+    "index_in_weight": [
+      124,
+      131
+    ],
+    "weight_value": -0.027929000556468964,
+    "max_activation": 1.9458869695663452,
+    "mean_activation": 0.12115466594696045
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 136,
+    "index_in_weight": [
+      173,
+      136
+    ],
+    "weight_value": -0.02794778347015381,
+    "max_activation": 1.7832648754119873,
+    "mean_activation": 0.0985165387392044
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 141,
+    "index_in_weight": [
+      102,
+      141
+    ],
+    "weight_value": 0.027923820540308952,
+    "max_activation": 2.1315176486968994,
+    "mean_activation": 0.1207074522972107
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 146,
+    "index_in_weight": [
+      175,
+      146
+    ],
+    "weight_value": -0.027919242158532143,
+    "max_activation": 1.9604864120483398,
+    "mean_activation": 0.10422791540622711
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 169,
+    "index_in_weight": [
+      22,
+      169
+    ],
+    "weight_value": 0.027944670990109444,
+    "max_activation": 1.0492238998413086,
+    "mean_activation": 0.058114033192396164
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 173,
+    "index_in_weight": [
+      230,
+      173
+    ],
+    "weight_value": -0.027908500283956528,
+    "max_activation": 2.54445481300354,
+    "mean_activation": 0.16765256226062775
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 212,
+    "index_in_weight": [
+      198,
+      212
+    ],
+    "weight_value": 0.02789393812417984,
+    "max_activation": 2.468897581100464,
+    "mean_activation": 0.1362628936767578
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 221,
+    "index_in_weight": [
+      109,
+      221
+    ],
+    "weight_value": 0.02773592621088028,
+    "max_activation": 2.1418542861938477,
+    "mean_activation": 0.1327032744884491
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 222,
+    "index_in_weight": [
+      140,
+      222
+    ],
+    "weight_value": 0.027843013405799866,
+    "max_activation": 1.602333664894104,
+    "mean_activation": 0.0832948163151741
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 241,
+    "index_in_weight": [
+      15,
+      241
+    ],
+    "weight_value": 0.027944108471274376,
+    "max_activation": 1.26292085647583,
+    "mean_activation": 0.07538220286369324
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 242,
+    "index_in_weight": [
+      52,
+      242
+    ],
+    "weight_value": 0.027718735858798027,
+    "max_activation": 1.4658609628677368,
+    "mean_activation": 0.08754169940948486
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 243,
+    "index_in_weight": [
+      161,
+      243
+    ],
+    "weight_value": -0.02795049361884594,
+    "max_activation": 2.1684882640838623,
+    "mean_activation": 0.1367851197719574
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 253,
+    "index_in_weight": [
+      246,
+      253
+    ],
+    "weight_value": -0.02788577601313591,
+    "max_activation": 0.9418215155601501,
+    "mean_activation": 0.06019754707813263
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 255,
+    "index_in_weight": [
+      65,
+      255
+    ],
+    "weight_value": 0.027883078902959824,
+    "max_activation": 1.8696750402450562,
+    "mean_activation": 0.11151058971881866
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 261,
+    "index_in_weight": [
+      71,
+      261
+    ],
+    "weight_value": 0.02782978117465973,
+    "max_activation": 1.8776384592056274,
+    "mean_activation": 0.11545982956886292
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 271,
+    "index_in_weight": [
+      135,
+      271
+    ],
+    "weight_value": 0.02774851955473423,
+    "max_activation": 1.1488089561462402,
+    "mean_activation": 0.07483643293380737
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 276,
+    "index_in_weight": [
+      66,
+      276
+    ],
+    "weight_value": 0.027945194393396378,
+    "max_activation": 1.5823454856872559,
+    "mean_activation": 0.0926920548081398
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 279,
+    "index_in_weight": [
+      277,
+      279
+    ],
+    "weight_value": -0.027937861159443855,
+    "max_activation": 1.3611271381378174,
+    "mean_activation": 0.08008286356925964
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 317,
+    "index_in_weight": [
+      202,
+      317
+    ],
+    "weight_value": -0.027950478717684746,
+    "max_activation": 1.282422423362732,
+    "mean_activation": 0.08379686623811722
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 323,
+    "index_in_weight": [
+      39,
+      323
+    ],
+    "weight_value": 0.02784789353609085,
+    "max_activation": 2.344024658203125,
+    "mean_activation": 0.11176607012748718
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 332,
+    "index_in_weight": [
+      203,
+      332
+    ],
+    "weight_value": -0.02790648117661476,
+    "max_activation": 1.7165288925170898,
+    "mean_activation": 0.10855604708194733
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 334,
+    "index_in_weight": [
+      156,
+      334
+    ],
+    "weight_value": -0.02792499028146267,
+    "max_activation": 1.8812261819839478,
+    "mean_activation": 0.11520955711603165
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 342,
+    "index_in_weight": [
+      206,
+      342
+    ],
+    "weight_value": 0.027934372425079346,
+    "max_activation": 1.9938150644302368,
+    "mean_activation": 0.12148277461528778
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 345,
+    "index_in_weight": [
+      248,
+      345
+    ],
+    "weight_value": 0.027891196310520172,
+    "max_activation": 1.1363166570663452,
+    "mean_activation": 0.07016563415527344
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 376,
+    "index_in_weight": [
+      60,
+      376
+    ],
+    "weight_value": -0.027880560606718063,
+    "max_activation": 1.4618380069732666,
+    "mean_activation": 0.0936579555273056
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 409,
+    "index_in_weight": [
+      26,
+      409
+    ],
+    "weight_value": -0.027828602120280266,
+    "max_activation": 1.0531634092330933,
+    "mean_activation": 0.06608781218528748
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 412,
+    "index_in_weight": [
+      140,
+      412
+    ],
+    "weight_value": -0.027913078665733337,
+    "max_activation": 0.9739192128181458,
+    "mean_activation": 0.06438211351633072
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 423,
+    "index_in_weight": [
+      83,
+      423
+    ],
+    "weight_value": -0.027911851182579994,
+    "max_activation": 1.7180922031402588,
+    "mean_activation": 0.09994928538799286
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 426,
+    "index_in_weight": [
+      100,
+      426
+    ],
+    "weight_value": -0.027902895584702492,
+    "max_activation": 1.6997864246368408,
+    "mean_activation": 0.10451032221317291
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 428,
+    "index_in_weight": [
+      108,
+      428
+    ],
+    "weight_value": 0.027848759666085243,
+    "max_activation": 1.094810128211975,
+    "mean_activation": 0.07257296144962311
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 440,
+    "index_in_weight": [
+      98,
+      440
+    ],
+    "weight_value": 0.027937287464737892,
+    "max_activation": 1.7240781784057617,
+    "mean_activation": 0.10204236209392548
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 446,
+    "index_in_weight": [
+      61,
+      446
+    ],
+    "weight_value": 0.027819188311696053,
+    "max_activation": 2.120859146118164,
+    "mean_activation": 0.13521763682365417
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 447,
+    "index_in_weight": [
+      188,
+      447
+    ],
+    "weight_value": 0.02785205841064453,
+    "max_activation": 1.2955511808395386,
+    "mean_activation": 0.08609546720981598
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 468,
+    "index_in_weight": [
+      175,
+      468
+    ],
+    "weight_value": 0.02794923260807991,
+    "max_activation": 1.32192862033844,
+    "mean_activation": 0.06253691762685776
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 471,
+    "index_in_weight": [
+      221,
+      471
+    ],
+    "weight_value": -0.027665240690112114,
+    "max_activation": 2.147693634033203,
+    "mean_activation": 0.1134844571352005
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 475,
+    "index_in_weight": [
+      305,
+      475
+    ],
+    "weight_value": -0.027881156653165817,
+    "max_activation": 1.2335506677627563,
+    "mean_activation": 0.081685371696949
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 490,
+    "index_in_weight": [
+      145,
+      490
+    ],
+    "weight_value": 0.02789960242807865,
+    "max_activation": 3.421919107437134,
+    "mean_activation": 0.216261625289917
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 493,
+    "index_in_weight": [
+      218,
+      493
+    ],
+    "weight_value": 0.02788510173559189,
+    "max_activation": 1.5987286567687988,
+    "mean_activation": 0.10349297523498535
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 500,
+    "index_in_weight": [
+      302,
+      500
+    ],
+    "weight_value": -0.02791079506278038,
+    "max_activation": 1.3887513875961304,
+    "mean_activation": 0.08086559921503067
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 509,
+    "index_in_weight": [
+      125,
+      509
+    ],
+    "weight_value": -0.027820244431495667,
+    "max_activation": 2.431175947189331,
+    "mean_activation": 0.12312929332256317
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 514,
+    "index_in_weight": [
+      157,
+      514
+    ],
+    "weight_value": 0.027723193168640137,
+    "max_activation": 2.2197701930999756,
+    "mean_activation": 0.11613987386226654
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 548,
+    "index_in_weight": [
+      36,
+      548
+    ],
+    "weight_value": 0.027835015207529068,
+    "max_activation": 1.785778522491455,
+    "mean_activation": 0.10855858027935028
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 553,
+    "index_in_weight": [
+      219,
+      553
+    ],
+    "weight_value": -0.027891719713807106,
+    "max_activation": 1.5880215167999268,
+    "mean_activation": 0.10444863885641098
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 557,
+    "index_in_weight": [
+      99,
+      557
+    ],
+    "weight_value": 0.02791246399283409,
+    "max_activation": 2.0103933811187744,
+    "mean_activation": 0.12445326149463654
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 558,
+    "index_in_weight": [
+      164,
+      558
+    ],
+    "weight_value": -0.02791454643011093,
+    "max_activation": 1.6290315389633179,
+    "mean_activation": 0.07478304207324982
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 581,
+    "index_in_weight": [
+      289,
+      581
+    ],
+    "weight_value": -0.027937395498156548,
+    "max_activation": 2.7971394062042236,
+    "mean_activation": 0.13360492885112762
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 600,
+    "index_in_weight": [
+      309,
+      600
+    ],
+    "weight_value": -0.02784501574933529,
+    "max_activation": 2.6263620853424072,
+    "mean_activation": 0.14978864789009094
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 610,
+    "index_in_weight": [
+      258,
+      610
+    ],
+    "weight_value": -0.02771880477666855,
+    "max_activation": 2.042584180831909,
+    "mean_activation": 0.11810912936925888
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 615,
+    "index_in_weight": [
+      306,
+      615
+    ],
+    "weight_value": 0.027877938002347946,
+    "max_activation": 1.9538581371307373,
+    "mean_activation": 0.11205096542835236
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 630,
+    "index_in_weight": [
+      45,
+      630
+    ],
+    "weight_value": -0.027703844010829926,
+    "max_activation": 2.0815231800079346,
+    "mean_activation": 0.13818538188934326
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 635,
+    "index_in_weight": [
+      171,
+      635
+    ],
+    "weight_value": -0.027915893122553825,
+    "max_activation": 1.274253249168396,
+    "mean_activation": 0.07417179644107819
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 641,
+    "index_in_weight": [
+      3,
+      641
+    ],
+    "weight_value": 0.027921045199036598,
+    "max_activation": 1.2679444551467896,
+    "mean_activation": 0.06857483088970184
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 644,
+    "index_in_weight": [
+      91,
+      644
+    ],
+    "weight_value": -0.02790822647511959,
+    "max_activation": 1.7844651937484741,
+    "mean_activation": 0.11729693412780762
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 647,
+    "index_in_weight": [
+      47,
+      647
+    ],
+    "weight_value": 0.02757129818201065,
+    "max_activation": 2.116499662399292,
+    "mean_activation": 0.1362682282924652
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 648,
+    "index_in_weight": [
+      315,
+      648
+    ],
+    "weight_value": 0.027897566556930542,
+    "max_activation": 2.23081636428833,
+    "mean_activation": 0.12193705141544342
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 652,
+    "index_in_weight": [
+      119,
+      652
+    ],
+    "weight_value": 0.027706647291779518,
+    "max_activation": 1.9457440376281738,
+    "mean_activation": 0.09653788805007935
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 653,
+    "index_in_weight": [
+      146,
+      653
+    ],
+    "weight_value": -0.027936352416872978,
+    "max_activation": 1.3992348909378052,
+    "mean_activation": 0.09215334057807922
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 661,
+    "index_in_weight": [
+      127,
+      661
+    ],
+    "weight_value": 0.02788018062710762,
+    "max_activation": 1.7787975072860718,
+    "mean_activation": 0.10713542252779007
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 662,
+    "index_in_weight": [
+      112,
+      662
+    ],
+    "weight_value": -0.02778141386806965,
+    "max_activation": 1.2744306325912476,
+    "mean_activation": 0.08435509353876114
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 667,
+    "index_in_weight": [
+      158,
+      667
+    ],
+    "weight_value": -0.027850886806845665,
+    "max_activation": 1.8645352125167847,
+    "mean_activation": 0.114084392786026
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 668,
+    "index_in_weight": [
+      127,
+      668
+    ],
+    "weight_value": -0.027915919199585915,
+    "max_activation": 1.4355627298355103,
+    "mean_activation": 0.0905342847108841
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 676,
+    "index_in_weight": [
+      238,
+      676
+    ],
+    "weight_value": -0.027948834002017975,
+    "max_activation": 1.40363347530365,
+    "mean_activation": 0.08636645972728729
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 678,
+    "index_in_weight": [
+      313,
+      678
+    ],
+    "weight_value": 0.02786669321358204,
+    "max_activation": 1.6348861455917358,
+    "mean_activation": 0.06391487270593643
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 679,
+    "index_in_weight": [
+      33,
+      679
+    ],
+    "weight_value": 0.02794528752565384,
+    "max_activation": 2.044523000717163,
+    "mean_activation": 0.10012919455766678
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 685,
+    "index_in_weight": [
+      229,
+      685
+    ],
+    "weight_value": -0.02794567495584488,
+    "max_activation": 1.7442710399627686,
+    "mean_activation": 0.10419449210166931
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 702,
+    "index_in_weight": [
+      135,
+      702
+    ],
+    "weight_value": -0.027844952419400215,
+    "max_activation": 1.4681154489517212,
+    "mean_activation": 0.09273583441972733
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 709,
+    "index_in_weight": [
+      188,
+      709
+    ],
+    "weight_value": -0.02793256938457489,
+    "max_activation": 2.4895713329315186,
+    "mean_activation": 0.15485113859176636
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 711,
+    "index_in_weight": [
+      233,
+      711
+    ],
+    "weight_value": -0.0279378779232502,
+    "max_activation": 1.6322991847991943,
+    "mean_activation": 0.10682889819145203
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 717,
+    "index_in_weight": [
+      286,
+      717
+    ],
+    "weight_value": -0.0277848020195961,
+    "max_activation": 1.5481362342834473,
+    "mean_activation": 0.0759643018245697
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 724,
+    "index_in_weight": [
+      59,
+      724
+    ],
+    "weight_value": -0.02790655381977558,
+    "max_activation": 1.6292318105697632,
+    "mean_activation": 0.10265275835990906
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 750,
+    "index_in_weight": [
+      246,
+      750
+    ],
+    "weight_value": -0.027790140360593796,
+    "max_activation": 1.7269212007522583,
+    "mean_activation": 0.11231928318738937
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 767,
+    "index_in_weight": [
+      235,
+      767
+    ],
+    "weight_value": 0.027857156470417976,
+    "max_activation": 1.8201018571853638,
+    "mean_activation": 0.0975596234202385
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 770,
+    "index_in_weight": [
+      193,
+      770
+    ],
+    "weight_value": -0.027917126193642616,
+    "max_activation": 1.2598553895950317,
+    "mean_activation": 0.08215749263763428
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 797,
+    "index_in_weight": [
+      48,
+      797
+    ],
+    "weight_value": 0.02794785425066948,
+    "max_activation": 2.3987622261047363,
+    "mean_activation": 0.14742976427078247
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 809,
+    "index_in_weight": [
+      246,
+      809
+    ],
+    "weight_value": 0.027898503467440605,
+    "max_activation": 2.1446125507354736,
+    "mean_activation": 0.12258955836296082
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 823,
+    "index_in_weight": [
+      253,
+      823
+    ],
+    "weight_value": 0.02777460590004921,
+    "max_activation": 1.3380275964736938,
+    "mean_activation": 0.08302336931228638
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 845,
+    "index_in_weight": [
+      152,
+      845
+    ],
+    "weight_value": -0.02794346585869789,
+    "max_activation": 1.3599578142166138,
+    "mean_activation": 0.08162371069192886
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 852,
+    "index_in_weight": [
+      76,
+      852
+    ],
+    "weight_value": -0.027938343584537506,
+    "max_activation": 1.8518868684768677,
+    "mean_activation": 0.09781286120414734
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 854,
+    "index_in_weight": [
+      88,
+      854
+    ],
+    "weight_value": 0.02776680886745453,
+    "max_activation": 1.0580052137374878,
+    "mean_activation": 0.06701399385929108
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 858,
+    "index_in_weight": [
+      157,
+      858
+    ],
+    "weight_value": 0.027922719717025757,
+    "max_activation": 1.6393002271652222,
+    "mean_activation": 0.10585317015647888
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 862,
+    "index_in_weight": [
+      146,
+      862
+    ],
+    "weight_value": -0.0277391504496336,
+    "max_activation": 0.9919323325157166,
+    "mean_activation": 0.06402265280485153
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 875,
+    "index_in_weight": [
+      232,
+      875
+    ],
+    "weight_value": 0.027914613485336304,
+    "max_activation": 1.4058399200439453,
+    "mean_activation": 0.08836718648672104
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 900,
+    "index_in_weight": [
+      312,
+      900
+    ],
+    "weight_value": 0.02792372740805149,
+    "max_activation": 1.970854640007019,
+    "mean_activation": 0.10816730558872223
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 903,
+    "index_in_weight": [
+      207,
+      903
+    ],
+    "weight_value": 0.027831710875034332,
+    "max_activation": 1.7728607654571533,
+    "mean_activation": 0.11523029208183289
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 913,
+    "index_in_weight": [
+      237,
+      913
+    ],
+    "weight_value": -0.027850516140460968,
+    "max_activation": 1.747758150100708,
+    "mean_activation": 0.0961553230881691
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 915,
+    "index_in_weight": [
+      214,
+      915
+    ],
+    "weight_value": 0.027663366869091988,
+    "max_activation": 1.849393367767334,
+    "mean_activation": 0.11531752347946167
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 922,
+    "index_in_weight": [
+      172,
+      922
+    ],
+    "weight_value": -0.027816899120807648,
+    "max_activation": 1.7732011079788208,
+    "mean_activation": 0.08927981555461884
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 937,
+    "index_in_weight": [
+      305,
+      937
+    ],
+    "weight_value": -0.027942920103669167,
+    "max_activation": 2.042506456375122,
+    "mean_activation": 0.13589464128017426
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 949,
+    "index_in_weight": [
+      229,
+      949
+    ],
+    "weight_value": -0.02781987190246582,
+    "max_activation": 1.9598416090011597,
+    "mean_activation": 0.10595925897359848
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 956,
+    "index_in_weight": [
+      292,
+      956
+    ],
+    "weight_value": 0.027784962207078934,
+    "max_activation": 1.9411009550094604,
+    "mean_activation": 0.1102878749370575
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 957,
+    "index_in_weight": [
+      170,
+      957
+    ],
+    "weight_value": -0.02792016789317131,
+    "max_activation": 1.7848066091537476,
+    "mean_activation": 0.09905915707349777
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 959,
+    "index_in_weight": [
+      233,
+      959
+    ],
+    "weight_value": 0.027906591072678566,
+    "max_activation": 1.7397905588150024,
+    "mean_activation": 0.11547157168388367
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 962,
+    "index_in_weight": [
+      204,
+      962
+    ],
+    "weight_value": 0.027936434373259544,
+    "max_activation": 1.5099313259124756,
+    "mean_activation": 0.07999701797962189
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 965,
+    "index_in_weight": [
+      259,
+      965
+    ],
+    "weight_value": -0.027934066951274872,
+    "max_activation": 2.042586326599121,
+    "mean_activation": 0.11060831695795059
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 966,
+    "index_in_weight": [
+      297,
+      966
+    ],
+    "weight_value": 0.027764033526182175,
+    "max_activation": 1.2249178886413574,
+    "mean_activation": 0.08116515725851059
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 984,
+    "index_in_weight": [
+      21,
+      984
+    ],
+    "weight_value": -0.027900082990527153,
+    "max_activation": 1.992872714996338,
+    "mean_activation": 0.12057303637266159
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 1000,
+    "index_in_weight": [
+      55,
+      1000
+    ],
+    "weight_value": 0.02781941555440426,
+    "max_activation": 1.7661914825439453,
+    "mean_activation": 0.09580034017562866
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 1007,
+    "index_in_weight": [
+      166,
+      1007
+    ],
+    "weight_value": -0.027851441875100136,
+    "max_activation": 1.4541778564453125,
+    "mean_activation": 0.09614083170890808
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 1010,
+    "index_in_weight": [
+      286,
+      1010
+    ],
+    "weight_value": 0.027767125517129898,
+    "max_activation": 1.9051730632781982,
+    "mean_activation": 0.11557865887880325
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 1023,
+    "index_in_weight": [
+      1,
+      1023
+    ],
+    "weight_value": 0.027579927816987038,
+    "max_activation": 1.1243181228637695,
+    "mean_activation": 0.06828635931015015
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 1027,
+    "index_in_weight": [
+      233,
+      1027
+    ],
+    "weight_value": 0.027916328981518745,
+    "max_activation": 2.9011642932891846,
+    "mean_activation": 0.16626471281051636
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 1028,
+    "index_in_weight": [
+      129,
+      1028
+    ],
+    "weight_value": 0.027844572439789772,
+    "max_activation": 1.7510253190994263,
+    "mean_activation": 0.09699276834726334
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 1029,
+    "index_in_weight": [
+      278,
+      1029
+    ],
+    "weight_value": 0.0278034508228302,
+    "max_activation": 1.682918667793274,
+    "mean_activation": 0.0783514678478241
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 1041,
+    "index_in_weight": [
+      265,
+      1041
+    ],
+    "weight_value": -0.027887484058737755,
+    "max_activation": 1.7062137126922607,
+    "mean_activation": 0.09448263049125671
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 1049,
+    "index_in_weight": [
+      0,
+      1049
+    ],
+    "weight_value": -0.027927301824092865,
+    "max_activation": 1.0665358304977417,
+    "mean_activation": 0.07078282535076141
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 1052,
+    "index_in_weight": [
+      319,
+      1052
+    ],
+    "weight_value": -0.027859771624207497,
+    "max_activation": 2.2676150798797607,
+    "mean_activation": 0.14103446900844574
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 1082,
+    "index_in_weight": [
+      293,
+      1082
+    ],
+    "weight_value": -0.027782747521996498,
+    "max_activation": 1.355201005935669,
+    "mean_activation": 0.08357366174459457
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 1083,
+    "index_in_weight": [
+      266,
+      1083
+    ],
+    "weight_value": 0.0278322771191597,
+    "max_activation": 2.154522180557251,
+    "mean_activation": 0.0943792462348938
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 1091,
+    "index_in_weight": [
+      44,
+      1091
+    ],
+    "weight_value": 0.027940411120653152,
+    "max_activation": 2.0341038703918457,
+    "mean_activation": 0.13105010986328125
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 1095,
+    "index_in_weight": [
+      177,
+      1095
+    ],
+    "weight_value": -0.02787013165652752,
+    "max_activation": 1.1801159381866455,
+    "mean_activation": 0.07533670961856842
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 1140,
+    "index_in_weight": [
+      168,
+      1140
+    ],
+    "weight_value": -0.027742035686969757,
+    "max_activation": 2.888498544692993,
+    "mean_activation": 0.11782192438840866
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 1147,
+    "index_in_weight": [
+      78,
+      1147
+    ],
+    "weight_value": 0.027767006307840347,
+    "max_activation": 1.393918514251709,
+    "mean_activation": 0.07717994600534439
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 1158,
+    "index_in_weight": [
+      296,
+      1158
+    ],
+    "weight_value": 0.027923427522182465,
+    "max_activation": 2.112910270690918,
+    "mean_activation": 0.13518007099628448
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 1172,
+    "index_in_weight": [
+      144,
+      1172
+    ],
+    "weight_value": 0.027935614809393883,
+    "max_activation": 1.4758845567703247,
+    "mean_activation": 0.09529827535152435
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 1173,
+    "index_in_weight": [
+      7,
+      1173
+    ],
+    "weight_value": -0.027836011722683907,
+    "max_activation": 1.7633553743362427,
+    "mean_activation": 0.09113503992557526
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 1177,
+    "index_in_weight": [
+      83,
+      1177
+    ],
+    "weight_value": 0.027924496680498123,
+    "max_activation": 1.1046175956726074,
+    "mean_activation": 0.0687682032585144
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 1188,
+    "index_in_weight": [
+      185,
+      1188
+    ],
+    "weight_value": 0.027862491086125374,
+    "max_activation": 1.3703545331954956,
+    "mean_activation": 0.08608904480934143
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 1206,
+    "index_in_weight": [
+      97,
+      1206
+    ],
+    "weight_value": 0.027925878763198853,
+    "max_activation": 2.0129270553588867,
+    "mean_activation": 0.11477826535701752
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 1222,
+    "index_in_weight": [
+      14,
+      1222
+    ],
+    "weight_value": 0.027946501970291138,
+    "max_activation": 1.5731836557388306,
+    "mean_activation": 0.10032589733600616
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 1233,
+    "index_in_weight": [
+      29,
+      1233
+    ],
+    "weight_value": 0.02787143737077713,
+    "max_activation": 2.0041043758392334,
+    "mean_activation": 0.12795016169548035
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 1237,
+    "index_in_weight": [
+      247,
+      1237
+    ],
+    "weight_value": -0.027895309031009674,
+    "max_activation": 1.6224892139434814,
+    "mean_activation": 0.07575405389070511
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 1238,
+    "index_in_weight": [
+      305,
+      1238
+    ],
+    "weight_value": -0.027913130819797516,
+    "max_activation": 2.04909086227417,
+    "mean_activation": 0.08956944942474365
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 1251,
+    "index_in_weight": [
+      63,
+      1251
+    ],
+    "weight_value": 0.02790810354053974,
+    "max_activation": 2.53935170173645,
+    "mean_activation": 0.1673564612865448
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 1266,
+    "index_in_weight": [
+      247,
+      1266
+    ],
+    "weight_value": -0.02791168913245201,
+    "max_activation": 1.1497231721878052,
+    "mean_activation": 0.07441596686840057
+  },
+  {
+    "layer": "input_blocks.1.1.transformer_blocks.0.ff.net.2",
+    "channel": 1279,
+    "index_in_weight": [
+      204,
+      1279
+    ],
+    "weight_value": 0.02794816344976425,
+    "max_activation": 1.9845211505889893,
+    "mean_activation": 0.12249927222728729
+  },
+  {
+    "layer": "middle_block.1.transformer_blocks.0.ff.net.2",
+    "channel": 263,
+    "index_in_weight": [
+      18,
+      263
+    ],
+    "weight_value": 0.027936801314353943,
+    "max_activation": 1.5306365489959717,
+    "mean_activation": 0.09382329136133194
+  },
+  {
+    "layer": "middle_block.1.transformer_blocks.0.ff.net.2",
+    "channel": 316,
+    "index_in_weight": [
+      113,
+      316
+    ],
+    "weight_value": -0.027927465736865997,
+    "max_activation": 2.09930419921875,
+    "mean_activation": 0.10880902409553528
+  },
+  {
+    "layer": "middle_block.1.transformer_blocks.0.ff.net.2",
+    "channel": 617,
+    "index_in_weight": [
+      172,
+      617
+    ],
+    "weight_value": -0.027781587094068527,
+    "max_activation": 2.608391046524048,
+    "mean_activation": 0.16113446652889252
+  },
+  {
+    "layer": "middle_block.1.transformer_blocks.0.ff.net.2",
+    "channel": 642,
+    "index_in_weight": [
+      29,
+      642
+    ],
+    "weight_value": -0.02793658897280693,
+    "max_activation": 1.6254276037216187,
+    "mean_activation": 0.10645046830177307
+  },
+  {
+    "layer": "middle_block.1.transformer_blocks.0.ff.net.2",
+    "channel": 711,
+    "index_in_weight": [
+      73,
+      711
+    ],
+    "weight_value": 0.02786022610962391,
+    "max_activation": 2.136000394821167,
+    "mean_activation": 0.10998087376356125
+  },
+  {
+    "layer": "middle_block.1.transformer_blocks.0.ff.net.2",
+    "channel": 820,
+    "index_in_weight": [
+      128,
+      820
+    ],
+    "weight_value": 0.02782992459833622,
+    "max_activation": 1.3338148593902588,
+    "mean_activation": 0.08817368745803833
+  },
+  {
+    "layer": "middle_block.1.transformer_blocks.0.ff.net.2",
+    "channel": 930,
+    "index_in_weight": [
+      234,
+      930
+    ],
+    "weight_value": -0.027877051383256912,
+    "max_activation": 1.5584005117416382,
+    "mean_activation": 0.09506766498088837
+  },
+  {
+    "layer": "middle_block.1.transformer_blocks.0.ff.net.2",
+    "channel": 954,
+    "index_in_weight": [
+      114,
+      954
+    ],
+    "weight_value": 0.027847997844219208,
+    "max_activation": 1.7319228649139404,
+    "mean_activation": 0.11114263534545898
+  },
+  {
+    "layer": "middle_block.1.transformer_blocks.0.ff.net.2",
+    "channel": 1084,
+    "index_in_weight": [
+      145,
+      1084
+    ],
+    "weight_value": 0.027942415326833725,
+    "max_activation": 1.2734224796295166,
+    "mean_activation": 0.08049887418746948
+  },
+  {
+    "layer": "middle_block.1.transformer_blocks.0.ff.net.2",
+    "channel": 1106,
+    "index_in_weight": [
+      214,
+      1106
+    ],
+    "weight_value": 0.027858762070536613,
+    "max_activation": 2.1881794929504395,
+    "mean_activation": 0.13727647066116333
+  },
+  {
+    "layer": "middle_block.1.transformer_blocks.0.ff.net.2",
+    "channel": 1246,
+    "index_in_weight": [
+      317,
+      1246
+    ],
+    "weight_value": -0.02781752310693264,
+    "max_activation": 1.7392115592956543,
+    "mean_activation": 0.08255894482135773
+  },
+  {
+    "layer": "middle_block.1.transformer_blocks.0.ff.net.2",
+    "channel": 1250,
+    "index_in_weight": [
+      256,
+      1250
+    ],
+    "weight_value": -0.02786916121840477,
+    "max_activation": 1.6184853315353394,
+    "mean_activation": 0.10369552671909332
+  },
+  {
+    "layer": "middle_block.1.transformer_blocks.0.ff.net.2",
+    "channel": 1253,
+    "index_in_weight": [
+      48,
+      1253
+    ],
+    "weight_value": 0.027926329523324966,
+    "max_activation": 2.172678232192993,
+    "mean_activation": 0.12560951709747314
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 1,
+    "index_in_weight": [
+      261,
+      1
+    ],
+    "weight_value": 0.027848539873957634,
+    "max_activation": 1.446160078048706,
+    "mean_activation": 0.08735013008117676
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 20,
+    "index_in_weight": [
+      1,
+      20
+    ],
+    "weight_value": 0.02794760651886463,
+    "max_activation": 1.6809176206588745,
+    "mean_activation": 0.10082092881202698
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 23,
+    "index_in_weight": [
+      146,
+      23
+    ],
+    "weight_value": -0.027865689247846603,
+    "max_activation": 2.4220356941223145,
+    "mean_activation": 0.16017065942287445
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 37,
+    "index_in_weight": [
+      140,
+      37
+    ],
+    "weight_value": -0.027949346229434013,
+    "max_activation": 1.1884512901306152,
+    "mean_activation": 0.06883043050765991
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 53,
+    "index_in_weight": [
+      137,
+      53
+    ],
+    "weight_value": 0.027855774387717247,
+    "max_activation": 1.1473602056503296,
+    "mean_activation": 0.07531644403934479
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 55,
+    "index_in_weight": [
+      225,
+      55
+    ],
+    "weight_value": 0.027897167950868607,
+    "max_activation": 1.6464465856552124,
+    "mean_activation": 0.08094070106744766
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 66,
+    "index_in_weight": [
+      193,
+      66
+    ],
+    "weight_value": 0.027805883437395096,
+    "max_activation": 1.9191490411758423,
+    "mean_activation": 0.12177451699972153
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 67,
+    "index_in_weight": [
+      37,
+      67
+    ],
+    "weight_value": -0.02788344956934452,
+    "max_activation": 1.7636812925338745,
+    "mean_activation": 0.10152305662631989
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 68,
+    "index_in_weight": [
+      155,
+      68
+    ],
+    "weight_value": -0.027879271656274796,
+    "max_activation": 2.4595279693603516,
+    "mean_activation": 0.14452531933784485
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 71,
+    "index_in_weight": [
+      183,
+      71
+    ],
+    "weight_value": -0.027901731431484222,
+    "max_activation": 2.160839319229126,
+    "mean_activation": 0.10069137811660767
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 74,
+    "index_in_weight": [
+      0,
+      74
+    ],
+    "weight_value": 0.027916032820940018,
+    "max_activation": 1.4392398595809937,
+    "mean_activation": 0.0913345217704773
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 86,
+    "index_in_weight": [
+      105,
+      86
+    ],
+    "weight_value": -0.027894342318177223,
+    "max_activation": 1.8549067974090576,
+    "mean_activation": 0.12225860357284546
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 114,
+    "index_in_weight": [
+      237,
+      114
+    ],
+    "weight_value": 0.027893878519535065,
+    "max_activation": 1.4371349811553955,
+    "mean_activation": 0.08816805481910706
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 124,
+    "index_in_weight": [
+      200,
+      124
+    ],
+    "weight_value": -0.027925636619329453,
+    "max_activation": 1.1920690536499023,
+    "mean_activation": 0.07697362452745438
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 131,
+    "index_in_weight": [
+      263,
+      131
+    ],
+    "weight_value": -0.027920594438910484,
+    "max_activation": 2.4463706016540527,
+    "mean_activation": 0.11646582931280136
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 133,
+    "index_in_weight": [
+      71,
+      133
+    ],
+    "weight_value": 0.027885308489203453,
+    "max_activation": 2.7640187740325928,
+    "mean_activation": 0.12255353480577469
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 200,
+    "index_in_weight": [
+      218,
+      200
+    ],
+    "weight_value": 0.027948694303631783,
+    "max_activation": 1.3633191585540771,
+    "mean_activation": 0.07464943081140518
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 217,
+    "index_in_weight": [
+      12,
+      217
+    ],
+    "weight_value": -0.02791438065469265,
+    "max_activation": 1.3033446073532104,
+    "mean_activation": 0.0760238990187645
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 223,
+    "index_in_weight": [
+      16,
+      223
+    ],
+    "weight_value": 0.027932703495025635,
+    "max_activation": 1.5603835582733154,
+    "mean_activation": 0.08921092748641968
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 237,
+    "index_in_weight": [
+      263,
+      237
+    ],
+    "weight_value": 0.027765139937400818,
+    "max_activation": 1.466552495956421,
+    "mean_activation": 0.07633513957262039
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 244,
+    "index_in_weight": [
+      319,
+      244
+    ],
+    "weight_value": -0.027728937566280365,
+    "max_activation": 1.4952212572097778,
+    "mean_activation": 0.09454084187746048
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 253,
+    "index_in_weight": [
+      17,
+      253
+    ],
+    "weight_value": -0.027949906885623932,
+    "max_activation": 1.8027688264846802,
+    "mean_activation": 0.11784540116786957
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 272,
+    "index_in_weight": [
+      270,
+      272
+    ],
+    "weight_value": -0.02787909097969532,
+    "max_activation": 2.02262544631958,
+    "mean_activation": 0.12535005807876587
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 300,
+    "index_in_weight": [
+      237,
+      300
+    ],
+    "weight_value": 0.02787741832435131,
+    "max_activation": 3.002819299697876,
+    "mean_activation": 0.15483474731445312
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 331,
+    "index_in_weight": [
+      100,
+      331
+    ],
+    "weight_value": 0.027861271053552628,
+    "max_activation": 2.3677773475646973,
+    "mean_activation": 0.14533886313438416
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 332,
+    "index_in_weight": [
+      153,
+      332
+    ],
+    "weight_value": -0.02781817503273487,
+    "max_activation": 2.1400234699249268,
+    "mean_activation": 0.10468563437461853
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 333,
+    "index_in_weight": [
+      95,
+      333
+    ],
+    "weight_value": 0.027878381311893463,
+    "max_activation": 2.0489253997802734,
+    "mean_activation": 0.12257316708564758
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 336,
+    "index_in_weight": [
+      25,
+      336
+    ],
+    "weight_value": -0.027927545830607414,
+    "max_activation": 2.352015495300293,
+    "mean_activation": 0.15167827904224396
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 348,
+    "index_in_weight": [
+      196,
+      348
+    ],
+    "weight_value": -0.02788638137280941,
+    "max_activation": 1.1304515600204468,
+    "mean_activation": 0.07500986009836197
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 353,
+    "index_in_weight": [
+      154,
+      353
+    ],
+    "weight_value": 0.027913980185985565,
+    "max_activation": 1.9529509544372559,
+    "mean_activation": 0.12366766482591629
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 355,
+    "index_in_weight": [
+      255,
+      355
+    ],
+    "weight_value": -0.02793700434267521,
+    "max_activation": 1.5515724420547485,
+    "mean_activation": 0.09943497180938721
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 365,
+    "index_in_weight": [
+      246,
+      365
+    ],
+    "weight_value": -0.02775385230779648,
+    "max_activation": 1.2416964769363403,
+    "mean_activation": 0.08088275790214539
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 374,
+    "index_in_weight": [
+      122,
+      374
+    ],
+    "weight_value": -0.027788614854216576,
+    "max_activation": 2.451495409011841,
+    "mean_activation": 0.1276721954345703
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 377,
+    "index_in_weight": [
+      126,
+      377
+    ],
+    "weight_value": 0.027913156896829605,
+    "max_activation": 1.787256121635437,
+    "mean_activation": 0.10078956186771393
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 401,
+    "index_in_weight": [
+      95,
+      401
+    ],
+    "weight_value": 0.02794242650270462,
+    "max_activation": 0.9732690453529358,
+    "mean_activation": 0.056626494973897934
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 413,
+    "index_in_weight": [
+      63,
+      413
+    ],
+    "weight_value": 0.027935918420553207,
+    "max_activation": 1.728338360786438,
+    "mean_activation": 0.10937659442424774
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 420,
+    "index_in_weight": [
+      148,
+      420
+    ],
+    "weight_value": 0.02784990891814232,
+    "max_activation": 1.2856626510620117,
+    "mean_activation": 0.07932326197624207
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 421,
+    "index_in_weight": [
+      58,
+      421
+    ],
+    "weight_value": 0.02792423963546753,
+    "max_activation": 1.768219232559204,
+    "mean_activation": 0.08257512003183365
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 428,
+    "index_in_weight": [
+      186,
+      428
+    ],
+    "weight_value": -0.027925735339522362,
+    "max_activation": 2.4424245357513428,
+    "mean_activation": 0.10710328817367554
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 433,
+    "index_in_weight": [
+      259,
+      433
+    ],
+    "weight_value": 0.027843475341796875,
+    "max_activation": 1.7743479013442993,
+    "mean_activation": 0.08255616575479507
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 435,
+    "index_in_weight": [
+      53,
+      435
+    ],
+    "weight_value": -0.027941705659031868,
+    "max_activation": 1.5113145112991333,
+    "mean_activation": 0.0808294266462326
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 441,
+    "index_in_weight": [
+      23,
+      441
+    ],
+    "weight_value": -0.0279375072568655,
+    "max_activation": 1.7606415748596191,
+    "mean_activation": 0.08080264180898666
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 452,
+    "index_in_weight": [
+      71,
+      452
+    ],
+    "weight_value": -0.027870165184140205,
+    "max_activation": 1.4900834560394287,
+    "mean_activation": 0.07981474697589874
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 453,
+    "index_in_weight": [
+      16,
+      453
+    ],
+    "weight_value": 0.027901409193873405,
+    "max_activation": 1.906746745109558,
+    "mean_activation": 0.11033585667610168
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 454,
+    "index_in_weight": [
+      1,
+      454
+    ],
+    "weight_value": 0.027887074276804924,
+    "max_activation": 1.1926195621490479,
+    "mean_activation": 0.07918751984834671
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 458,
+    "index_in_weight": [
+      248,
+      458
+    ],
+    "weight_value": 0.027876442298293114,
+    "max_activation": 1.5715152025222778,
+    "mean_activation": 0.10193992406129837
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 468,
+    "index_in_weight": [
+      308,
+      468
+    ],
+    "weight_value": 0.027887340635061264,
+    "max_activation": 1.899105429649353,
+    "mean_activation": 0.11058539152145386
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 476,
+    "index_in_weight": [
+      45,
+      476
+    ],
+    "weight_value": -0.02789868414402008,
+    "max_activation": 0.8574247360229492,
+    "mean_activation": 0.05450473353266716
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 478,
+    "index_in_weight": [
+      305,
+      478
+    ],
+    "weight_value": 0.027933232486248016,
+    "max_activation": 1.4902132749557495,
+    "mean_activation": 0.09601207077503204
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 489,
+    "index_in_weight": [
+      155,
+      489
+    ],
+    "weight_value": -0.027742179110646248,
+    "max_activation": 1.066274881362915,
+    "mean_activation": 0.06251262873411179
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 523,
+    "index_in_weight": [
+      310,
+      523
+    ],
+    "weight_value": -0.02782994508743286,
+    "max_activation": 1.408471703529358,
+    "mean_activation": 0.07756239175796509
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 532,
+    "index_in_weight": [
+      161,
+      532
+    ],
+    "weight_value": -0.027850333601236343,
+    "max_activation": 2.5356597900390625,
+    "mean_activation": 0.1227593868970871
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 538,
+    "index_in_weight": [
+      64,
+      538
+    ],
+    "weight_value": -0.02782699465751648,
+    "max_activation": 1.071420669555664,
+    "mean_activation": 0.05715566873550415
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 551,
+    "index_in_weight": [
+      21,
+      551
+    ],
+    "weight_value": 0.027936479076743126,
+    "max_activation": 3.2259981632232666,
+    "mean_activation": 0.2077394723892212
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 556,
+    "index_in_weight": [
+      91,
+      556
+    ],
+    "weight_value": -0.027923567220568657,
+    "max_activation": 2.237502336502075,
+    "mean_activation": 0.11084894835948944
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 567,
+    "index_in_weight": [
+      89,
+      567
+    ],
+    "weight_value": -0.027922021225094795,
+    "max_activation": 1.3328763246536255,
+    "mean_activation": 0.07588623464107513
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 575,
+    "index_in_weight": [
+      19,
+      575
+    ],
+    "weight_value": 0.027764327824115753,
+    "max_activation": 1.2754480838775635,
+    "mean_activation": 0.06980206072330475
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 576,
+    "index_in_weight": [
+      182,
+      576
+    ],
+    "weight_value": -0.027711011469364166,
+    "max_activation": 1.7213281393051147,
+    "mean_activation": 0.07372429221868515
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 587,
+    "index_in_weight": [
+      313,
+      587
+    ],
+    "weight_value": -0.027908217161893845,
+    "max_activation": 1.9245212078094482,
+    "mean_activation": 0.11246451735496521
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 589,
+    "index_in_weight": [
+      239,
+      589
+    ],
+    "weight_value": 0.027949266135692596,
+    "max_activation": 1.9314661026000977,
+    "mean_activation": 0.10256297886371613
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 591,
+    "index_in_weight": [
+      62,
+      591
+    ],
+    "weight_value": 0.02792861871421337,
+    "max_activation": 1.2116447687149048,
+    "mean_activation": 0.07687020301818848
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 596,
+    "index_in_weight": [
+      141,
+      596
+    ],
+    "weight_value": 0.027868404984474182,
+    "max_activation": 1.223129391670227,
+    "mean_activation": 0.07637383043766022
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 602,
+    "index_in_weight": [
+      203,
+      602
+    ],
+    "weight_value": 0.02791617065668106,
+    "max_activation": 1.2309387922286987,
+    "mean_activation": 0.07999513298273087
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 624,
+    "index_in_weight": [
+      71,
+      624
+    ],
+    "weight_value": -0.02791847288608551,
+    "max_activation": 1.8266857862472534,
+    "mean_activation": 0.11848194897174835
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 631,
+    "index_in_weight": [
+      49,
+      631
+    ],
+    "weight_value": -0.027874968945980072,
+    "max_activation": 2.24454402923584,
+    "mean_activation": 0.12727145850658417
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 633,
+    "index_in_weight": [
+      303,
+      633
+    ],
+    "weight_value": 0.027841636911034584,
+    "max_activation": 1.5738924741744995,
+    "mean_activation": 0.0978027880191803
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 639,
+    "index_in_weight": [
+      310,
+      639
+    ],
+    "weight_value": 0.027905577793717384,
+    "max_activation": 1.8683037757873535,
+    "mean_activation": 0.10760381817817688
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 640,
+    "index_in_weight": [
+      44,
+      640
+    ],
+    "weight_value": 0.02782951481640339,
+    "max_activation": 2.393932342529297,
+    "mean_activation": 0.15100936591625214
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 649,
+    "index_in_weight": [
+      277,
+      649
+    ],
+    "weight_value": 0.02791154757142067,
+    "max_activation": 1.725773572921753,
+    "mean_activation": 0.11279583722352982
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 661,
+    "index_in_weight": [
+      56,
+      661
+    ],
+    "weight_value": -0.027935724705457687,
+    "max_activation": 1.516671061515808,
+    "mean_activation": 0.09961705654859543
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 677,
+    "index_in_weight": [
+      250,
+      677
+    ],
+    "weight_value": -0.027890926226973534,
+    "max_activation": 1.6731544733047485,
+    "mean_activation": 0.10715802758932114
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 683,
+    "index_in_weight": [
+      286,
+      683
+    ],
+    "weight_value": 0.0278415996581316,
+    "max_activation": 1.679354190826416,
+    "mean_activation": 0.10068707913160324
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 690,
+    "index_in_weight": [
+      285,
+      690
+    ],
+    "weight_value": -0.027881557121872902,
+    "max_activation": 1.757447600364685,
+    "mean_activation": 0.11175297200679779
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 701,
+    "index_in_weight": [
+      228,
+      701
+    ],
+    "weight_value": -0.02773849107325077,
+    "max_activation": 2.921320915222168,
+    "mean_activation": 0.1665511131286621
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 714,
+    "index_in_weight": [
+      160,
+      714
+    ],
+    "weight_value": 0.0278236735612154,
+    "max_activation": 1.1713277101516724,
+    "mean_activation": 0.07064969837665558
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 717,
+    "index_in_weight": [
+      20,
+      717
+    ],
+    "weight_value": 0.02784024365246296,
+    "max_activation": 1.5013066530227661,
+    "mean_activation": 0.09761610627174377
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 734,
+    "index_in_weight": [
+      227,
+      734
+    ],
+    "weight_value": 0.027925798669457436,
+    "max_activation": 1.9297232627868652,
+    "mean_activation": 0.09846600890159607
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 761,
+    "index_in_weight": [
+      122,
+      761
+    ],
+    "weight_value": 0.02792942523956299,
+    "max_activation": 1.2421342134475708,
+    "mean_activation": 0.07713883370161057
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 783,
+    "index_in_weight": [
+      16,
+      783
+    ],
+    "weight_value": -0.02789408527314663,
+    "max_activation": 1.4367988109588623,
+    "mean_activation": 0.09046165645122528
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 818,
+    "index_in_weight": [
+      265,
+      818
+    ],
+    "weight_value": -0.027945341542363167,
+    "max_activation": 1.8784393072128296,
+    "mean_activation": 0.10204164683818817
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 829,
+    "index_in_weight": [
+      117,
+      829
+    ],
+    "weight_value": 0.027821147814393044,
+    "max_activation": 1.887561559677124,
+    "mean_activation": 0.12270684540271759
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 868,
+    "index_in_weight": [
+      17,
+      868
+    ],
+    "weight_value": -0.027879927307367325,
+    "max_activation": 1.6517378091812134,
+    "mean_activation": 0.100806325674057
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 870,
+    "index_in_weight": [
+      98,
+      870
+    ],
+    "weight_value": 0.027881531044840813,
+    "max_activation": 2.025988817214966,
+    "mean_activation": 0.11416909098625183
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 878,
+    "index_in_weight": [
+      319,
+      878
+    ],
+    "weight_value": -0.027806537225842476,
+    "max_activation": 1.786354422569275,
+    "mean_activation": 0.10863904654979706
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 879,
+    "index_in_weight": [
+      262,
+      879
+    ],
+    "weight_value": 0.02775895968079567,
+    "max_activation": 2.002197027206421,
+    "mean_activation": 0.1038890928030014
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 884,
+    "index_in_weight": [
+      39,
+      884
+    ],
+    "weight_value": -0.02788407914340496,
+    "max_activation": 1.019960880279541,
+    "mean_activation": 0.0670715719461441
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 895,
+    "index_in_weight": [
+      302,
+      895
+    ],
+    "weight_value": -0.027933619916439056,
+    "max_activation": 1.1485203504562378,
+    "mean_activation": 0.07321926951408386
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 897,
+    "index_in_weight": [
+      287,
+      897
+    ],
+    "weight_value": 0.027938777580857277,
+    "max_activation": 1.9531259536743164,
+    "mean_activation": 0.060697030276060104
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 910,
+    "index_in_weight": [
+      140,
+      910
+    ],
+    "weight_value": 0.02793562225997448,
+    "max_activation": 1.0840402841567993,
+    "mean_activation": 0.06538037210702896
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 911,
+    "index_in_weight": [
+      206,
+      911
+    ],
+    "weight_value": 0.02789870649576187,
+    "max_activation": 1.4471192359924316,
+    "mean_activation": 0.09223003685474396
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 913,
+    "index_in_weight": [
+      262,
+      913
+    ],
+    "weight_value": 0.027921505272388458,
+    "max_activation": 1.6372883319854736,
+    "mean_activation": 0.09507397562265396
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 922,
+    "index_in_weight": [
+      122,
+      922
+    ],
+    "weight_value": -0.02789950929582119,
+    "max_activation": 1.7545579671859741,
+    "mean_activation": 0.1077485904097557
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 923,
+    "index_in_weight": [
+      309,
+      923
+    ],
+    "weight_value": 0.027935964986681938,
+    "max_activation": 1.7449893951416016,
+    "mean_activation": 0.10827884078025818
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 931,
+    "index_in_weight": [
+      298,
+      931
+    ],
+    "weight_value": -0.02786092460155487,
+    "max_activation": 1.8526002168655396,
+    "mean_activation": 0.10173710435628891
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 944,
+    "index_in_weight": [
+      190,
+      944
+    ],
+    "weight_value": -0.027795538306236267,
+    "max_activation": 1.7301973104476929,
+    "mean_activation": 0.11446492373943329
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 955,
+    "index_in_weight": [
+      55,
+      955
+    ],
+    "weight_value": -0.02752634324133396,
+    "max_activation": 1.0093835592269897,
+    "mean_activation": 0.06338074803352356
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 964,
+    "index_in_weight": [
+      41,
+      964
+    ],
+    "weight_value": 0.02791464701294899,
+    "max_activation": 1.6618350744247437,
+    "mean_activation": 0.09476876258850098
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 989,
+    "index_in_weight": [
+      209,
+      989
+    ],
+    "weight_value": -0.02794814296066761,
+    "max_activation": 1.8851679563522339,
+    "mean_activation": 0.1206493079662323
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 990,
+    "index_in_weight": [
+      117,
+      990
+    ],
+    "weight_value": -0.02795041911303997,
+    "max_activation": 2.399440288543701,
+    "mean_activation": 0.143052339553833
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 994,
+    "index_in_weight": [
+      318,
+      994
+    ],
+    "weight_value": 0.027888907119631767,
+    "max_activation": 1.9125179052352905,
+    "mean_activation": 0.12425003200769424
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 1023,
+    "index_in_weight": [
+      100,
+      1023
+    ],
+    "weight_value": -0.02793816849589348,
+    "max_activation": 1.823753833770752,
+    "mean_activation": 0.11278699338436127
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 1027,
+    "index_in_weight": [
+      188,
+      1027
+    ],
+    "weight_value": 0.027622144669294357,
+    "max_activation": 1.7398518323898315,
+    "mean_activation": 0.0996299535036087
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 1039,
+    "index_in_weight": [
+      99,
+      1039
+    ],
+    "weight_value": 0.02793201617896557,
+    "max_activation": 2.253359317779541,
+    "mean_activation": 0.10548832267522812
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 1059,
+    "index_in_weight": [
+      265,
+      1059
+    ],
+    "weight_value": -0.02782539650797844,
+    "max_activation": 1.613991141319275,
+    "mean_activation": 0.10679925978183746
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 1062,
+    "index_in_weight": [
+      140,
+      1062
+    ],
+    "weight_value": -0.027811091393232346,
+    "max_activation": 1.3987772464752197,
+    "mean_activation": 0.07274232804775238
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 1075,
+    "index_in_weight": [
+      135,
+      1075
+    ],
+    "weight_value": 0.02782038412988186,
+    "max_activation": 1.864757776260376,
+    "mean_activation": 0.09156697243452072
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 1083,
+    "index_in_weight": [
+      130,
+      1083
+    ],
+    "weight_value": 0.02792937122285366,
+    "max_activation": 1.4751536846160889,
+    "mean_activation": 0.08651237189769745
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 1085,
+    "index_in_weight": [
+      27,
+      1085
+    ],
+    "weight_value": -0.027908459305763245,
+    "max_activation": 1.2782057523727417,
+    "mean_activation": 0.07458224892616272
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 1089,
+    "index_in_weight": [
+      287,
+      1089
+    ],
+    "weight_value": 0.02788686752319336,
+    "max_activation": 1.9050469398498535,
+    "mean_activation": 0.1264762580394745
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 1114,
+    "index_in_weight": [
+      165,
+      1114
+    ],
+    "weight_value": -0.027938667684793472,
+    "max_activation": 3.0178139209747314,
+    "mean_activation": 0.08990481495857239
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 1132,
+    "index_in_weight": [
+      165,
+      1132
+    ],
+    "weight_value": -0.02786184474825859,
+    "max_activation": 2.5638315677642822,
+    "mean_activation": 0.13707493245601654
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 1137,
+    "index_in_weight": [
+      92,
+      1137
+    ],
+    "weight_value": -0.02755885012447834,
+    "max_activation": 1.4246824979782104,
+    "mean_activation": 0.09066268801689148
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 1167,
+    "index_in_weight": [
+      308,
+      1167
+    ],
+    "weight_value": -0.027911927551031113,
+    "max_activation": 2.1361653804779053,
+    "mean_activation": 0.1015854999423027
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 1174,
+    "index_in_weight": [
+      307,
+      1174
+    ],
+    "weight_value": 0.02794034034013748,
+    "max_activation": 3.0008578300476074,
+    "mean_activation": 0.17157913744449615
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 1198,
+    "index_in_weight": [
+      84,
+      1198
+    ],
+    "weight_value": 0.02785450778901577,
+    "max_activation": 1.9297611713409424,
+    "mean_activation": 0.11333996057510376
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 1199,
+    "index_in_weight": [
+      206,
+      1199
+    ],
+    "weight_value": -0.027917785570025444,
+    "max_activation": 1.2379857301712036,
+    "mean_activation": 0.0801459550857544
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 1203,
+    "index_in_weight": [
+      7,
+      1203
+    ],
+    "weight_value": -0.027933409437537193,
+    "max_activation": 1.4117813110351562,
+    "mean_activation": 0.07028525322675705
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 1208,
+    "index_in_weight": [
+      77,
+      1208
+    ],
+    "weight_value": 0.027940694242715836,
+    "max_activation": 2.1790969371795654,
+    "mean_activation": 0.13740435242652893
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 1216,
+    "index_in_weight": [
+      247,
+      1216
+    ],
+    "weight_value": 0.027642158791422844,
+    "max_activation": 1.6491223573684692,
+    "mean_activation": 0.10770361870527267
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 1217,
+    "index_in_weight": [
+      44,
+      1217
+    ],
+    "weight_value": 0.027878334745764732,
+    "max_activation": 1.7783608436584473,
+    "mean_activation": 0.10416153818368912
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 1218,
+    "index_in_weight": [
+      39,
+      1218
+    ],
+    "weight_value": -0.027874533087015152,
+    "max_activation": 2.3956174850463867,
+    "mean_activation": 0.15421414375305176
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 1228,
+    "index_in_weight": [
+      15,
+      1228
+    ],
+    "weight_value": -0.027899300679564476,
+    "max_activation": 1.6873047351837158,
+    "mean_activation": 0.0967620313167572
+  },
+  {
+    "layer": "output_blocks.2.1.transformer_blocks.0.ff.net.2",
+    "channel": 1279,
+    "index_in_weight": [
+      236,
+      1279
+    ],
+    "weight_value": -0.027805941179394722,
+    "max_activation": 1.489341139793396,
+    "mean_activation": 0.0805894285440445
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 17,
+    "index_in_weight": [
+      247,
+      17
+    ],
+    "weight_value": 0.02789677120745182,
+    "max_activation": 2.0881848335266113,
+    "mean_activation": 0.10092879831790924
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 28,
+    "index_in_weight": [
+      44,
+      28
+    ],
+    "weight_value": 0.02794211357831955,
+    "max_activation": 1.9463175535202026,
+    "mean_activation": 0.1246105208992958
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 64,
+    "index_in_weight": [
+      106,
+      64
+    ],
+    "weight_value": 0.02789212204515934,
+    "max_activation": 1.2885814905166626,
+    "mean_activation": 0.08279787749052048
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 69,
+    "index_in_weight": [
+      203,
+      69
+    ],
+    "weight_value": 0.027853835374116898,
+    "max_activation": 1.594988465309143,
+    "mean_activation": 0.09934252500534058
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 72,
+    "index_in_weight": [
+      145,
+      72
+    ],
+    "weight_value": -0.02786107547581196,
+    "max_activation": 1.5140671730041504,
+    "mean_activation": 0.06546243280172348
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 77,
+    "index_in_weight": [
+      38,
+      77
+    ],
+    "weight_value": -0.027937164530158043,
+    "max_activation": 1.4776703119277954,
+    "mean_activation": 0.07468602061271667
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 85,
+    "index_in_weight": [
+      308,
+      85
+    ],
+    "weight_value": 0.02794002741575241,
+    "max_activation": 1.7217488288879395,
+    "mean_activation": 0.1043427437543869
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 86,
+    "index_in_weight": [
+      78,
+      86
+    ],
+    "weight_value": -0.027736878022551537,
+    "max_activation": 2.0657784938812256,
+    "mean_activation": 0.12404003739356995
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 93,
+    "index_in_weight": [
+      0,
+      93
+    ],
+    "weight_value": -0.02790192887187004,
+    "max_activation": 2.200083017349243,
+    "mean_activation": 0.12837153673171997
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 101,
+    "index_in_weight": [
+      259,
+      101
+    ],
+    "weight_value": -0.027798796072602272,
+    "max_activation": 1.654687523841858,
+    "mean_activation": 0.09117317199707031
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 105,
+    "index_in_weight": [
+      179,
+      105
+    ],
+    "weight_value": -0.02794359251856804,
+    "max_activation": 1.57174551486969,
+    "mean_activation": 0.10257190465927124
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 123,
+    "index_in_weight": [
+      192,
+      123
+    ],
+    "weight_value": -0.02774922363460064,
+    "max_activation": 2.2400710582733154,
+    "mean_activation": 0.12289498001337051
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 127,
+    "index_in_weight": [
+      178,
+      127
+    ],
+    "weight_value": -0.027644379064440727,
+    "max_activation": 1.2582756280899048,
+    "mean_activation": 0.08028559386730194
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 157,
+    "index_in_weight": [
+      92,
+      157
+    ],
+    "weight_value": 0.027865439653396606,
+    "max_activation": 2.5595953464508057,
+    "mean_activation": 0.16027846932411194
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 196,
+    "index_in_weight": [
+      270,
+      196
+    ],
+    "weight_value": 0.027916420251131058,
+    "max_activation": 2.3094489574432373,
+    "mean_activation": 0.14765015244483948
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 202,
+    "index_in_weight": [
+      215,
+      202
+    ],
+    "weight_value": -0.02780904620885849,
+    "max_activation": 2.3703088760375977,
+    "mean_activation": 0.15550930798053741
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 207,
+    "index_in_weight": [
+      317,
+      207
+    ],
+    "weight_value": 0.027868039906024933,
+    "max_activation": 2.033308267593384,
+    "mean_activation": 0.1267908662557602
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 214,
+    "index_in_weight": [
+      223,
+      214
+    ],
+    "weight_value": -0.02790946327149868,
+    "max_activation": 1.81305730342865,
+    "mean_activation": 0.11199323832988739
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 222,
+    "index_in_weight": [
+      221,
+      222
+    ],
+    "weight_value": 0.02794143371284008,
+    "max_activation": 1.6078065633773804,
+    "mean_activation": 0.10636144876480103
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 231,
+    "index_in_weight": [
+      164,
+      231
+    ],
+    "weight_value": 0.027848636731505394,
+    "max_activation": 1.75684654712677,
+    "mean_activation": 0.11354324966669083
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 240,
+    "index_in_weight": [
+      204,
+      240
+    ],
+    "weight_value": 0.027899665758013725,
+    "max_activation": 1.5074125528335571,
+    "mean_activation": 0.09470082819461823
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 249,
+    "index_in_weight": [
+      298,
+      249
+    ],
+    "weight_value": 0.027876712381839752,
+    "max_activation": 1.6069328784942627,
+    "mean_activation": 0.10496547818183899
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 263,
+    "index_in_weight": [
+      240,
+      263
+    ],
+    "weight_value": 0.02793402224779129,
+    "max_activation": 1.8219956159591675,
+    "mean_activation": 0.0989571213722229
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 293,
+    "index_in_weight": [
+      160,
+      293
+    ],
+    "weight_value": 0.027713650837540627,
+    "max_activation": 2.4409639835357666,
+    "mean_activation": 0.1579521894454956
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 317,
+    "index_in_weight": [
+      240,
+      317
+    ],
+    "weight_value": 0.02791520021855831,
+    "max_activation": 1.164847493171692,
+    "mean_activation": 0.05898110568523407
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 344,
+    "index_in_weight": [
+      300,
+      344
+    ],
+    "weight_value": -0.027937760576605797,
+    "max_activation": 1.4260751008987427,
+    "mean_activation": 0.08450868725776672
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 349,
+    "index_in_weight": [
+      210,
+      349
+    ],
+    "weight_value": 0.027940884232521057,
+    "max_activation": 1.782349705696106,
+    "mean_activation": 0.10884133726358414
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 351,
+    "index_in_weight": [
+      184,
+      351
+    ],
+    "weight_value": 0.0279080830514431,
+    "max_activation": 1.193631649017334,
+    "mean_activation": 0.07667481154203415
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 384,
+    "index_in_weight": [
+      234,
+      384
+    ],
+    "weight_value": -0.027819817885756493,
+    "max_activation": 1.1759623289108276,
+    "mean_activation": 0.0735088437795639
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 386,
+    "index_in_weight": [
+      25,
+      386
+    ],
+    "weight_value": 0.02767074853181839,
+    "max_activation": 1.3963572978973389,
+    "mean_activation": 0.07848988473415375
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 404,
+    "index_in_weight": [
+      281,
+      404
+    ],
+    "weight_value": -0.027931449934840202,
+    "max_activation": 1.8823939561843872,
+    "mean_activation": 0.12529249489307404
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 413,
+    "index_in_weight": [
+      252,
+      413
+    ],
+    "weight_value": -0.027757886797189713,
+    "max_activation": 1.7091569900512695,
+    "mean_activation": 0.11047805845737457
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 432,
+    "index_in_weight": [
+      242,
+      432
+    ],
+    "weight_value": -0.027824336662888527,
+    "max_activation": 1.4786773920059204,
+    "mean_activation": 0.08631777763366699
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 437,
+    "index_in_weight": [
+      74,
+      437
+    ],
+    "weight_value": -0.027805674821138382,
+    "max_activation": 1.4618421792984009,
+    "mean_activation": 0.0869361087679863
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 438,
+    "index_in_weight": [
+      301,
+      438
+    ],
+    "weight_value": -0.027899550274014473,
+    "max_activation": 1.2278616428375244,
+    "mean_activation": 0.08179961144924164
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 446,
+    "index_in_weight": [
+      25,
+      446
+    ],
+    "weight_value": 0.02790774591267109,
+    "max_activation": 1.6168781518936157,
+    "mean_activation": 0.09310172498226166
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 458,
+    "index_in_weight": [
+      251,
+      458
+    ],
+    "weight_value": -0.027943456545472145,
+    "max_activation": 1.7265594005584717,
+    "mean_activation": 0.08938106894493103
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 463,
+    "index_in_weight": [
+      205,
+      463
+    ],
+    "weight_value": -0.02790921926498413,
+    "max_activation": 2.2160704135894775,
+    "mean_activation": 0.10006317496299744
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 533,
+    "index_in_weight": [
+      234,
+      533
+    ],
+    "weight_value": -0.027910474687814713,
+    "max_activation": 1.8516238927841187,
+    "mean_activation": 0.11094798147678375
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 542,
+    "index_in_weight": [
+      196,
+      542
+    ],
+    "weight_value": 0.027605770155787468,
+    "max_activation": 1.4398720264434814,
+    "mean_activation": 0.09008088707923889
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 543,
+    "index_in_weight": [
+      86,
+      543
+    ],
+    "weight_value": 0.027939753606915474,
+    "max_activation": 2.5871269702911377,
+    "mean_activation": 0.14128383994102478
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 555,
+    "index_in_weight": [
+      249,
+      555
+    ],
+    "weight_value": 0.02792556956410408,
+    "max_activation": 0.9190157055854797,
+    "mean_activation": 0.060381367802619934
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 586,
+    "index_in_weight": [
+      36,
+      586
+    ],
+    "weight_value": 0.027897033840417862,
+    "max_activation": 1.5677820444107056,
+    "mean_activation": 0.09049038589000702
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 599,
+    "index_in_weight": [
+      51,
+      599
+    ],
+    "weight_value": 0.027926262468099594,
+    "max_activation": 1.8534009456634521,
+    "mean_activation": 0.10514281690120697
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 609,
+    "index_in_weight": [
+      265,
+      609
+    ],
+    "weight_value": 0.027930963784456253,
+    "max_activation": 1.398355484008789,
+    "mean_activation": 0.08667856454849243
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 624,
+    "index_in_weight": [
+      80,
+      624
+    ],
+    "weight_value": 0.027885321527719498,
+    "max_activation": 2.8404786586761475,
+    "mean_activation": 0.1168355792760849
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 626,
+    "index_in_weight": [
+      9,
+      626
+    ],
+    "weight_value": -0.027897091582417488,
+    "max_activation": 2.0021119117736816,
+    "mean_activation": 0.12870155274868011
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 631,
+    "index_in_weight": [
+      53,
+      631
+    ],
+    "weight_value": 0.02792644314467907,
+    "max_activation": 2.028432846069336,
+    "mean_activation": 0.12472958862781525
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 637,
+    "index_in_weight": [
+      51,
+      637
+    ],
+    "weight_value": 0.02791832573711872,
+    "max_activation": 1.4302419424057007,
+    "mean_activation": 0.0892426148056984
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 643,
+    "index_in_weight": [
+      24,
+      643
+    ],
+    "weight_value": 0.027946630492806435,
+    "max_activation": 2.460029125213623,
+    "mean_activation": 0.12413980066776276
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 646,
+    "index_in_weight": [
+      205,
+      646
+    ],
+    "weight_value": -0.027945522218942642,
+    "max_activation": 3.7761759757995605,
+    "mean_activation": 0.22198611497879028
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 685,
+    "index_in_weight": [
+      316,
+      685
+    ],
+    "weight_value": -0.02786434069275856,
+    "max_activation": 1.527519702911377,
+    "mean_activation": 0.09636794775724411
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 690,
+    "index_in_weight": [
+      249,
+      690
+    ],
+    "weight_value": -0.02793208695948124,
+    "max_activation": 0.9599856734275818,
+    "mean_activation": 0.06263640522956848
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 697,
+    "index_in_weight": [
+      132,
+      697
+    ],
+    "weight_value": -0.027942460030317307,
+    "max_activation": 1.0914561748504639,
+    "mean_activation": 0.06545662879943848
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 705,
+    "index_in_weight": [
+      77,
+      705
+    ],
+    "weight_value": -0.027737464755773544,
+    "max_activation": 1.4915863275527954,
+    "mean_activation": 0.08492566645145416
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 737,
+    "index_in_weight": [
+      209,
+      737
+    ],
+    "weight_value": 0.027903981506824493,
+    "max_activation": 1.9754600524902344,
+    "mean_activation": 0.125290185213089
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 744,
+    "index_in_weight": [
+      294,
+      744
+    ],
+    "weight_value": 0.027750300243496895,
+    "max_activation": 1.466910719871521,
+    "mean_activation": 0.0942990630865097
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 747,
+    "index_in_weight": [
+      248,
+      747
+    ],
+    "weight_value": -0.027813751250505447,
+    "max_activation": 1.421458125114441,
+    "mean_activation": 0.08629010617733002
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 748,
+    "index_in_weight": [
+      234,
+      748
+    ],
+    "weight_value": -0.027600036934018135,
+    "max_activation": 2.4070725440979004,
+    "mean_activation": 0.13689912855625153
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 756,
+    "index_in_weight": [
+      93,
+      756
+    ],
+    "weight_value": 0.02793867699801922,
+    "max_activation": 1.3994393348693848,
+    "mean_activation": 0.09119080007076263
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 764,
+    "index_in_weight": [
+      115,
+      764
+    ],
+    "weight_value": 0.02776433154940605,
+    "max_activation": 1.7488276958465576,
+    "mean_activation": 0.10411226004362106
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 776,
+    "index_in_weight": [
+      66,
+      776
+    ],
+    "weight_value": -0.02793649584054947,
+    "max_activation": 1.2726659774780273,
+    "mean_activation": 0.08389425277709961
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 787,
+    "index_in_weight": [
+      95,
+      787
+    ],
+    "weight_value": 0.02787705883383751,
+    "max_activation": 2.780409574508667,
+    "mean_activation": 0.11883161962032318
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 799,
+    "index_in_weight": [
+      253,
+      799
+    ],
+    "weight_value": 0.027903161942958832,
+    "max_activation": 1.5300848484039307,
+    "mean_activation": 0.10186415165662766
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 809,
+    "index_in_weight": [
+      2,
+      809
+    ],
+    "weight_value": -0.027875356376171112,
+    "max_activation": 1.6693452596664429,
+    "mean_activation": 0.08537489175796509
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 816,
+    "index_in_weight": [
+      127,
+      816
+    ],
+    "weight_value": -0.027813687920570374,
+    "max_activation": 2.4495456218719482,
+    "mean_activation": 0.1505715698003769
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 840,
+    "index_in_weight": [
+      112,
+      840
+    ],
+    "weight_value": -0.027736498042941093,
+    "max_activation": 1.6077156066894531,
+    "mean_activation": 0.08948009461164474
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 856,
+    "index_in_weight": [
+      41,
+      856
+    ],
+    "weight_value": 0.027926435694098473,
+    "max_activation": 1.4472761154174805,
+    "mean_activation": 0.0863582044839859
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 858,
+    "index_in_weight": [
+      37,
+      858
+    ],
+    "weight_value": 0.027933163568377495,
+    "max_activation": 2.0269227027893066,
+    "mean_activation": 0.13419440388679504
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 862,
+    "index_in_weight": [
+      165,
+      862
+    ],
+    "weight_value": -0.02787191793322563,
+    "max_activation": 2.5619404315948486,
+    "mean_activation": 0.15043407678604126
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 864,
+    "index_in_weight": [
+      284,
+      864
+    ],
+    "weight_value": 0.027915922924876213,
+    "max_activation": 1.8030468225479126,
+    "mean_activation": 0.11042638123035431
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 872,
+    "index_in_weight": [
+      46,
+      872
+    ],
+    "weight_value": -0.027884868904948235,
+    "max_activation": 1.7060295343399048,
+    "mean_activation": 0.1086522787809372
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 917,
+    "index_in_weight": [
+      95,
+      917
+    ],
+    "weight_value": -0.027736904099583626,
+    "max_activation": 1.6665979623794556,
+    "mean_activation": 0.10055643320083618
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 923,
+    "index_in_weight": [
+      137,
+      923
+    ],
+    "weight_value": -0.02783029153943062,
+    "max_activation": 1.0500215291976929,
+    "mean_activation": 0.0674901157617569
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 936,
+    "index_in_weight": [
+      271,
+      936
+    ],
+    "weight_value": -0.027882354333996773,
+    "max_activation": 1.6684749126434326,
+    "mean_activation": 0.09634976089000702
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 975,
+    "index_in_weight": [
+      108,
+      975
+    ],
+    "weight_value": -0.02792513556778431,
+    "max_activation": 0.944024920463562,
+    "mean_activation": 0.06246376037597656
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 990,
+    "index_in_weight": [
+      77,
+      990
+    ],
+    "weight_value": -0.027890067547559738,
+    "max_activation": 2.007524013519287,
+    "mean_activation": 0.10544626414775848
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 1012,
+    "index_in_weight": [
+      300,
+      1012
+    ],
+    "weight_value": 0.027933435514569283,
+    "max_activation": 1.9860033988952637,
+    "mean_activation": 0.11597993224859238
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 1026,
+    "index_in_weight": [
+      43,
+      1026
+    ],
+    "weight_value": 0.02791536971926689,
+    "max_activation": 1.7218810319900513,
+    "mean_activation": 0.10833524167537689
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 1064,
+    "index_in_weight": [
+      211,
+      1064
+    ],
+    "weight_value": 0.027938254177570343,
+    "max_activation": 2.025364637374878,
+    "mean_activation": 0.1019822359085083
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 1065,
+    "index_in_weight": [
+      170,
+      1065
+    ],
+    "weight_value": -0.02788187749683857,
+    "max_activation": 1.234750509262085,
+    "mean_activation": 0.06704048812389374
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 1070,
+    "index_in_weight": [
+      42,
+      1070
+    ],
+    "weight_value": 0.027781562879681587,
+    "max_activation": 1.4940271377563477,
+    "mean_activation": 0.08671192824840546
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 1110,
+    "index_in_weight": [
+      264,
+      1110
+    ],
+    "weight_value": -0.027796100825071335,
+    "max_activation": 1.7956950664520264,
+    "mean_activation": 0.10502532124519348
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 1128,
+    "index_in_weight": [
+      303,
+      1128
+    ],
+    "weight_value": 0.027946244925260544,
+    "max_activation": 2.0574498176574707,
+    "mean_activation": 0.1281234622001648
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 1129,
+    "index_in_weight": [
+      173,
+      1129
+    ],
+    "weight_value": -0.027882613241672516,
+    "max_activation": 1.5760849714279175,
+    "mean_activation": 0.1014263778924942
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 1133,
+    "index_in_weight": [
+      141,
+      1133
+    ],
+    "weight_value": -0.027930067852139473,
+    "max_activation": 1.392891764640808,
+    "mean_activation": 0.08527591824531555
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 1190,
+    "index_in_weight": [
+      258,
+      1190
+    ],
+    "weight_value": 0.027907030656933784,
+    "max_activation": 1.5976897478103638,
+    "mean_activation": 0.10314623266458511
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 1194,
+    "index_in_weight": [
+      37,
+      1194
+    ],
+    "weight_value": 0.027936475351452827,
+    "max_activation": 1.860442876815796,
+    "mean_activation": 0.07123973965644836
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 1210,
+    "index_in_weight": [
+      258,
+      1210
+    ],
+    "weight_value": -0.027923444285988808,
+    "max_activation": 2.137688398361206,
+    "mean_activation": 0.10190088301897049
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 1240,
+    "index_in_weight": [
+      240,
+      1240
+    ],
+    "weight_value": -0.027943076565861702,
+    "max_activation": 1.801973581314087,
+    "mean_activation": 0.07920180261135101
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 1249,
+    "index_in_weight": [
+      299,
+      1249
+    ],
+    "weight_value": -0.027910135686397552,
+    "max_activation": 1.3745819330215454,
+    "mean_activation": 0.07604505121707916
+  },
+  {
+    "layer": "output_blocks.3.1.transformer_blocks.0.ff.net.2",
+    "channel": 1277,
+    "index_in_weight": [
+      182,
+      1277
+    ],
+    "weight_value": -0.027917249128222466,
+    "max_activation": 1.1918004751205444,
+    "mean_activation": 0.07464185357093811
+  }
+]
