@@ -1,0 +1,127 @@
+[2025-07-19 18:16:08, INFO, Writer classification Experiment::train] Training started.
+[2025-07-19 18:16:08, ERROR, Writer classification Experiment::train] An error occurred.
+[2025-07-19 18:16:08, INFO, Writer classification Experiment::train] --- Running writer Training ---
+[2025-07-19 18:16:11, INFO, Writer classification Experiment::train] 
+	 csv_path:./data/styCrossAttention.csv
+[2025-07-19 18:24:28, INFO, Writer classification Experiment::train] Training started.
+[2025-07-19 18:24:28, ERROR, Writer classification Experiment::train] An error occurred.
+[2025-07-19 18:24:28, INFO, Writer classification Experiment::train] --- Running writer Training ---
+[2025-07-19 18:24:30, INFO, Writer classification Experiment::train] 
+	 csv_path:./data/styCrossAttention.csv
+[2025-07-19 18:42:08, INFO, Writer classification Experiment::train] Training started.
+[2025-07-19 18:42:08, ERROR, Writer classification Experiment::train] An error occurred.
+[2025-07-19 18:42:08, INFO, Writer classification Experiment::train] --- Running writer Training ---
+[2025-07-19 18:42:10, INFO, Writer classification Experiment::train] 
+	 csv_path:./data/styCrossAttention.csv
+[2025-07-19 18:49:51, INFO, Writer classification Experiment::train] Training started.
+[2025-07-19 18:49:51, ERROR, Writer classification Experiment::train] An error occurred.
+[2025-07-19 18:49:51, INFO, Writer classification Experiment::train] --- Running writer Training ---
+[2025-07-19 18:49:53, INFO, Writer classification Experiment::train] 
+	 csv_path:./data/styCrossAttention.csv
+[2025-07-19 18:50:32, INFO, Writer classification Experiment::train] Training started.
+[2025-07-19 18:50:32, ERROR, Writer classification Experiment::train] An error occurred.
+[2025-07-19 18:50:32, INFO, Writer classification Experiment::train] --- Running writer Training ---
+[2025-07-19 18:50:34, INFO, Writer classification Experiment::train] 
+	 csv_path:./data/styCrossAttention.csv
+[2025-07-20 05:45:10, INFO, Writer classification Experiment::train] Training started.
+[2025-07-20 05:45:10, ERROR, Writer classification Experiment::train] An error occurred.
+[2025-07-20 05:45:10, INFO, Writer classification Experiment::train] --- Running writer Training ---
+[2025-07-20 05:45:13, INFO, Writer classification Experiment::train] 
+	 csv_path:./data/styCrossAttention.csv
+[2025-07-20 05:46:46, INFO, Writer classification Experiment::train] Training started.
+[2025-07-20 05:46:46, ERROR, Writer classification Experiment::train] An error occurred.
+[2025-07-20 05:46:46, INFO, Writer classification Experiment::train] --- Running writer Training ---
+[2025-07-20 05:46:48, INFO, Writer classification Experiment::train] 
+	 csv_path:./data/styCrossAttention.csv
+[2025-07-20 05:47:10, INFO, Writer classification Experiment::train] Training started.
+[2025-07-20 05:47:10, ERROR, Writer classification Experiment::train] An error occurred.
+[2025-07-20 05:47:10, INFO, Writer classification Experiment::train] --- Running writer Training ---
+[2025-07-20 05:47:12, INFO, Writer classification Experiment::train] 
+	 csv_path:./data/styCrossAttention.csv
+[2025-07-20 05:50:17, INFO, Writer classification Experiment::train] Training started.
+[2025-07-20 05:50:17, ERROR, Writer classification Experiment::train] An error occurred.
+[2025-07-20 05:50:17, INFO, Writer classification Experiment::train] --- Running writer Training ---
+[2025-07-20 05:50:19, INFO, Writer classification Experiment::train] 
+	 csv_path:./data/styCrossAttention.csv
+[2025-07-20 05:57:54, INFO, Writer classification Experiment::train] Training started.
+[2025-07-20 05:57:54, ERROR, Writer classification Experiment::train] An error occurred.
+[2025-07-20 05:57:54, INFO, Writer classification Experiment::train] --- Running writer Training ---
+[2025-07-20 05:57:57, INFO, Writer classification Experiment::train] 
+	 csv_path:./data/styCrossAttention.csv
+[2025-07-20 06:01:46, INFO, Writer classification Experiment::train] Training started.
+[2025-07-20 06:01:46, ERROR, Writer classification Experiment::train] An error occurred.
+[2025-07-20 06:01:46, INFO, Writer classification Experiment::train] --- Running writer Training ---
+[2025-07-20 06:01:49, INFO, Writer classification Experiment::train] 
+	 csv_path:./data/styCrossAttention.csv
+[2025-07-20 07:06:06, INFO, Writer classification Experiment::train] Training started.
+[2025-07-20 07:06:06, ERROR, Writer classification Experiment::train] An error occurred.
+[2025-07-20 07:06:06, INFO, Writer classification Experiment::train] --- Running writer Training ---
+[2025-07-20 07:06:09, INFO, Writer classification Experiment::train] 
+	 csv_path:./data/styCrossAttention.csv
+[2025-07-20 07:10:25, INFO, Writer classification Experiment::train] Training started.
+[2025-07-20 07:10:25, ERROR, Writer classification Experiment::train] An error occurred.
+[2025-07-20 07:10:25, INFO, Writer classification Experiment::train] --- Running writer Training ---
+[2025-07-20 07:12:22, INFO, Writer classification Experiment::train] Training started.
+[2025-07-20 07:12:22, ERROR, Writer classification Experiment::train] An error occurred.
+[2025-07-20 07:12:22, INFO, Writer classification Experiment::train] --- Running writer Training ---
+[2025-07-20 07:12:24, INFO, Writer classification Experiment::train] Training started.
+[2025-07-20 07:12:24, ERROR, Writer classification Experiment::train] An error occurred.
+[2025-07-20 07:12:24, INFO, Writer classification Experiment::train] --- Running Writer Training ---
+[2025-07-20 07:12:24, INFO, Writer classification Experiment::train] 
+	 csv_path:./data/styCrossAttention.csv
+[2025-07-20 07:14:24, INFO, Writer classification Experiment::train] Training started.
+[2025-07-20 07:14:24, ERROR, Writer classification Experiment::train] An error occurred.
+[2025-07-20 07:14:24, INFO, Writer classification Experiment::train] --- Running writer Training ---
+[2025-07-20 07:14:27, INFO, Writer classification Experiment::train] Training started.
+[2025-07-20 07:14:27, ERROR, Writer classification Experiment::train] An error occurred.
+[2025-07-20 07:14:27, INFO, Writer classification Experiment::train] --- Running Writer Training ---
+[2025-07-20 07:14:27, INFO, Writer classification Experiment::train] 
+	 csv_path:./data/styCrossAttention.csv
+[2025-07-20 07:23:49, INFO, Writer classification Experiment::train] Training started.
+[2025-07-20 07:23:49, ERROR, Writer classification Experiment::train] An error occurred.
+[2025-07-20 07:23:49, INFO, Writer classification Experiment::train] --- Running writer Training ---
+[2025-07-20 07:23:53, INFO, Writer classification Experiment::train] Training started.
+[2025-07-20 07:23:53, ERROR, Writer classification Experiment::train] An error occurred.
+[2025-07-20 07:23:53, INFO, Writer classification Experiment::train] --- Running Writer Training ---
+[2025-07-20 07:23:53, INFO, Writer classification Experiment::train] 
+	 csv_path:./data/styCrossAttention.csv
+[2025-07-20 07:46:05, INFO, Writer classification Experiment::train] Training started.
+[2025-07-20 07:46:05, ERROR, Writer classification Experiment::train] An error occurred.
+[2025-07-20 07:46:05, INFO, Writer classification Experiment::train] --- Running writer Training ---
+[2025-07-20 07:46:08, INFO, Writer classification Experiment::train] Training started.
+[2025-07-20 07:46:08, ERROR, Writer classification Experiment::train] An error occurred.
+[2025-07-20 07:46:08, INFO, Writer classification Experiment::train] --- Running Writer Training ---
+[2025-07-20 07:46:08, INFO, Writer classification Experiment::train] 
+	 csv_path:./data/styCrossAttention.csv
+[2025-07-20 09:46:04, INFO, Writer classification Experiment::train] Training started.
+[2025-07-20 09:46:04, ERROR, Writer classification Experiment::train] An error occurred.
+[2025-07-20 09:46:04, INFO, Writer classification Experiment::train] --- Running writer Training ---
+[2025-07-20 09:46:06, INFO, Writer classification Experiment::train] Training started.
+[2025-07-20 09:46:06, ERROR, Writer classification Experiment::train] An error occurred.
+[2025-07-20 09:46:06, INFO, Writer classification Experiment::train] --- Running Writer Training ---
+[2025-07-20 09:46:06, INFO, Writer classification Experiment::train] 
+	 csv_path:./data/styCrossAttention.csv
+[2025-07-20 09:51:02, INFO, Writer classification Experiment::train] Training started.
+[2025-07-20 09:51:02, ERROR, Writer classification Experiment::train] An error occurred.
+[2025-07-20 09:51:02, INFO, Writer classification Experiment::train] --- Running writer Training ---
+[2025-07-20 09:51:06, INFO, Writer classification Experiment::train] Training started.
+[2025-07-20 09:51:06, ERROR, Writer classification Experiment::train] An error occurred.
+[2025-07-20 09:51:06, INFO, Writer classification Experiment::train] --- Running Writer Training ---
+[2025-07-20 09:51:06, INFO, Writer classification Experiment::train] 
+	 csv_path:./data/styCrossAttention.csv
+[2025-07-20 09:57:57, INFO, Writer classification Experiment::train] Training started.
+[2025-07-20 09:57:57, ERROR, Writer classification Experiment::train] An error occurred.
+[2025-07-20 09:57:57, INFO, Writer classification Experiment::train] --- Running writer Training ---
+[2025-07-20 09:58:02, INFO, Writer classification Experiment::train] Training started.
+[2025-07-20 09:58:02, ERROR, Writer classification Experiment::train] An error occurred.
+[2025-07-20 09:58:02, INFO, Writer classification Experiment::train] --- Running Writer Training ---
+[2025-07-20 09:58:02, INFO, Writer classification Experiment::train] 
+	 csv_path:./data/styCrossAttention.csv
+[2025-07-20 10:04:02, INFO, Writer classification Experiment::train] Training started.
+[2025-07-20 10:04:02, ERROR, Writer classification Experiment::train] An error occurred.
+[2025-07-20 10:04:02, INFO, Writer classification Experiment::train] --- Running writer Training ---
+[2025-07-20 10:04:07, INFO, Writer classification Experiment::train] Training started.
+[2025-07-20 10:04:07, ERROR, Writer classification Experiment::train] An error occurred.
+[2025-07-20 10:04:07, INFO, Writer classification Experiment::train] --- Running Writer Training ---
+[2025-07-20 10:04:07, INFO, Writer classification Experiment::train] 
+	 csv_path:./data/styCrossAttention.csv
