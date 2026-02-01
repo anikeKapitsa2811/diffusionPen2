@@ -1248,7 +1248,7 @@ class UNetModel(nn.Module):
     
     
     def identify_super_weights_all(self, images, timesteps=None, context=None, style_features=None,
-                                top_k_per_module=5, num_runs=3, device='cuda', save_path=None,
+                                 device=None,top_k_per_module=5, num_runs=3, save_path=None,
                                 scale_range=(0.8, 1.4)):
         """
         Inference-time detector of important parameters across UNet submodules.
@@ -1391,7 +1391,104 @@ class UNetModel(nn.Module):
         return {"by_module": by_module, "flat": flat_mapping}
 
 
+ 
+    import json
+
+    def identify_super_weights_per_weight(
+        self,
+        images,
+        timesteps=None,
+        context=None,
+        style_features=None,
+        top_k_per_module=5,
+        num_runs=3,
+        device=None,
+        save_path=None,
+    ):
+        """
+        Identify individual weight importances for all connections in the U-Net model (diffusion U-Net).
+
+        Args:
+            images (torch.Tensor): Input batch of images (real or synthetic) (B, C, H, W).
+            timesteps (torch.LongTensor): Diffusion timesteps (can be zero if not provided).
+            context (torch.Tensor or None): Tokenized text or conditioning for context (optional).
+            style_features (torch.Tensor or None): Style conditioning features (optional, can be None).
+            top_k_per_module (int): Number of top important weights to keep per module (or all if <= 0).
+            num_runs (int): Forward passes to aggregate importance scores.
+            device (str): Compute device (e.g., "cuda" or "cpu").
+            save_path (str or None): Path to save the results (optional, saves as JSON).
+
+        Returns:
+            dict: Top-k individual weight importance scores per parameter.
+                Format: { "param_name": [ {"index": <tuple>, "importance": <float>} ] }
+        """
+        # Move model and inputs to the desired device
+        self.to(device)
+        images = images.to(device)
+        if timesteps is not None:
+            timesteps = timesteps.to(device)
+        else:
+            # Default to zero timesteps if not provided
+            timesteps = torch.zeros(images.size(0), dtype=torch.long, device=device)
+        if context is not None:
+            context = context.to(device)
+            
+        style_extractor=style_features
+        if style_features is not None:
+            style_features = style_extractor.to(device)
+        # check size of each 
         
+        print('2.images', images.shape)
+        print("2.timesteps", timesteps.shape)
+        #print("2.context.shape:",context.shape)
+        print("2.style_features:", style_extractor.shape if style_extractor is not None else None)
+        self.eval()
+
+        # Initialize storage for weight importance scores
+        weight_importance = {
+            name: torch.zeros_like(p, device=device) for name, p in self.named_parameters()
+        }
+
+        for _ in range(num_runs):
+            self.zero_grad(set_to_none=True)
+
+            # Forward pass with additional inputs
+            out = self(images, timesteps=timesteps, context=context,y=None,mix_rate=None, style_extractor=style_extractor)
+            objective = out.abs().mean()  # Scalar objective to backprop importance
+            objective.backward()
+
+            # Accumulate per-weight gradient × weight scores
+            for name, p in self.named_parameters():
+                if p.grad is not None:
+                    weight_importance[name] += (p.grad * p).abs()
+
+        # Normalize scores by the number of runs
+        for name in weight_importance:
+            weight_importance[name] = weight_importance[name].div_(num_runs).detach().cpu()
+
+        # Select top-k important weights per module if specified
+        top_k_weights = {}
+        for name, scores in weight_importance.items():
+            flat_scores = scores.flatten()  # Flatten the weights
+            k = min(top_k_per_module, flat_scores.numel()) if top_k_per_module > 0 else flat_scores.numel()
+            top_vals, top_idxs = torch.topk(flat_scores, k)
+
+            # Map the top scores to their original indices
+            top_weights = [
+                {"index": np.unravel_index(idx.item(), scores.shape), "importance": val.item()}
+                for idx, val in zip(top_idxs, top_vals)
+            ]
+            top_k_weights[name] = top_weights
+
+        # Save results as JSON if save_path is specified
+        if 0:#save_path:
+            with open(save_path, "w") as f:
+                json.dump(top_k_weights, f, indent=2)
+
+        return top_k_weights
+
+    
+
     
     #url=https://github.com/anikeKapitsa2811/DiffusionPen/blob/main/unet.py
     def identify_super_weights(self, images, timesteps=None, context=None, style_features=None,
@@ -1525,7 +1622,6 @@ class UNetModel(nn.Module):
         self.middle_block.apply(convert_module_to_f32)
         self.output_blocks.apply(convert_module_to_f32)
   
-    
     def forward(self, x, timesteps=None, context=None, y=None, mix_rate=None, style_extractor=None, **kwargs):
         """
         Apply the model to an input batch.
@@ -1543,6 +1639,8 @@ class UNetModel(nn.Module):
         hs = []
         
         t_emb = timestep_embedding(timesteps, self.model_channels, repeat_only=False)#.to(x.device)
+        t_emb = t_emb.to(x.device)
+        print('t_emb', t_emb.device," x.device:",x.device)
         emb = self.time_embed(t_emb)
         
         
@@ -1621,7 +1719,6 @@ class UNetModel(nn.Module):
         else:
             
             return self.out(h)
-
 
 
 
