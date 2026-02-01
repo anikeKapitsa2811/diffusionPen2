@@ -387,6 +387,13 @@ def train(diffusion, model, ema, ema_model, vae, optimizer, mse_loss, loader, te
             if np.random.random() < 0.1:
                 labels = None
             #print('\n\t s_id', s_id," style_features shape:", style_features.shape )
+            
+            # print device of all input variables
+            print("x_t device:", x_t.device)
+            print("t device:", t.device)
+            print("s_id device:", s_id.device)
+            #print("text_features device:", text_features.device)
+            print("style_features device:", style_features.device)
             predicted_noise = model(x_t, timesteps=t, context=text_features, y=s_id, style_extractor=style_features)
 
             #noisy_residual = model(x, t, text_features, labels, original_images=style_images, mix_rate=mix_rate, style_extractor=style_features)
@@ -401,71 +408,59 @@ def train(diffusion, model, ema, ema_model, vae, optimizer, mse_loss, loader, te
                 
                 # print devices of all model para devices
                 
-                print("Model devices: model device ids:", model.device_ids)
-                print("EMA Model devices: ema_model device ids:", ema_model.device_ids)
+                print("1.Model devices: model device ids:", model.device_ids)
+                print("1.EMA Model devices: ema_model device ids:", ema_model.device_ids)
 
-                print("x_t device:", x_t.device)
-                print("t device:", t.device)
-                print("s_id device:", s_id.device)
-                #print("text_features device:", text_features.device_ids)
+                print("1.x_t device:", x_t.device)
+                print("1.t device:", t.device)
+                print("1.s_id device:", s_id.device)
+                #print("text_features device:", text_features)
                 
-                if 0:
                     
-                    res = model.module.identify_super_weights_all(
-                        images=images,                 # already prepared above (latent or pixel as appropriate)
-                        timesteps=timesteps,
-                        context=text_features,
-                        style_features=style_features,
-                        top_k_per_module=5,            # change if you want more/fewer per-module params
-                        num_runs=3,
-                        device=args.device,
-                        save_path=os.path.join(args.save_path, './super/super_weights_all.json'),
-                        scale_range=(0.8, 1.4)
-                    )
+                super_weights_all = model.module.identify_super_weights_per_weight(
+                    x_t,                    # noisy latents
+                    t,                      # timesteps
+                    text_features,          # text conditioning
+                    style_features,                   # writer labels
+                    5,
+                    3,
+                    args.device
+                    #threshold=150.0         # good starting point for diffusion (lower than LLM's 1000)
+                )
 
-                
-                
-                with torch.no_grad():
-                    # Use current real batch (no dummy inputs)
-                    super_weights_all = model.module.identify_super_weights_all(  # ← full scan method
-                        x_t,                    # noisy latents
-                        t,                      # timesteps
-                        text_features,          # text conditioning
-                        style_features,                   # writer labels
-                        #threshold=150.0         # good starting point for diffusion (lower than LLM's 1000)
-                    )
+                print("\nTop super-weights (per-weight method):",len(super_weights_all))                    
+                if super_weights_all:
+                    # Assuming super_weights_all is a dict {layer_name: list_of_sw}
+                    total_sw = sum(len(v) for v in super_weights_all.values()) if isinstance(super_weights_all, dict) else len(super_weights_all)
+                    print(f"Found {total_sw} super weights across all layers:")
                     
-                    if super_weights_all:
-                        # Assuming super_weights_all is a dict {layer_name: list_of_sw}
-                        total_sw = sum(len(v) for v in super_weights_all.values()) if isinstance(super_weights_all, dict) else len(super_weights_all)
-                        print(f"Found {total_sw} super weights across all layers:")
-                        
-                        # Print first few (safely iterate dict values)
-                        printed = 0
-                        
-                        if 0:
-                            for layer_name, sw_list in super_weights_all.items():
-                                if isinstance(sw_list, list):
-                                    for sw in sw_list:
-                                        if printed < 6:
-                                            print(f"[{layer_name}] {sw}")
-                                            printed += 1
-                                        else:
-                                            break
-                                else:
-                                    # fallback if value is not list
-                                    print(f"[{layer_name}] {sw_list}")
-                                    printed += 1
-                                if printed >= 6:
-                                    break
-                        
-                        # Save (dict is JSON-serializable)
-                        sw_path = os.path.join( "./super_weights/", f"super_weights_all_epoch_{epoch}.json")
+                    # Print first few (safely iterate dict values)
+                    printed = 0
+                    
+                    if 0:
+                        for layer_name, sw_list in super_weights_all.items():
+                            if isinstance(sw_list, list):
+                                for sw in sw_list:
+                                    if printed < 6:
+                                        print(f"[{layer_name}] {sw}")
+                                        printed += 1
+                                    else:
+                                        break
+                            else:
+                                # fallback if value is not list
+                                print(f"[{layer_name}] {sw_list}")
+                                printed += 1
+                            if printed >= 6:
+                                break
+                    
+                    # Save (dict is JSON-serializable)
+                    sw_path = os.path.join( "./super_weights/", f"super_weights_all_epoch_{epoch}.json")
+                    if 0:
                         with open(sw_path, 'w') as f:
                             json.dump(super_weights_all, f, indent=4)
                         print(f"Saved full super-weight list → {sw_path}")                    
-                    else:
-                        print("No super weights found (try threshold=100.0 or check hooks in unet.py)")
+                else:
+                    print("No super weights found (try threshold=100.0 or check hooks in unet.py)")
             # ==================== END SUPER-WEIGHT CALL ====================
             
             
@@ -592,7 +587,7 @@ def main():
     parser.add_argument('--model_name', type=str, default='diffusionpenCVL', help='diffusionpen or wordstylist (previous work)')
     parser.add_argument('--level', type=str, default='word', help='word, line')
     parser.add_argument('--img_size', type=int, default=(64, 256))  
-    parser.add_argument('--partialLoad', type=int, default=0)  
+    parser.add_argument('--partialLoad', type=int, default=0.01)  
 
     parser.add_argument('--dataset', type=str, default='CVL', help='iam, gnhk') 
     #UNET parameters
@@ -603,7 +598,7 @@ def main():
     parser.add_argument('--num_res_blocks', type=int, default=1)
     
     parser.add_argument('--save_path', type=str, default=baseModelDir+'/diffusionpen_CVL_model_path') 
-    parser.add_argument('--device', type=str, default='cuda:0')
+    parser.add_argument('--device', type=str, default='cuda:1')
     parser.add_argument('--wandb_log', type=bool, default=False)
     parser.add_argument('--color', type=bool, default=True)
     parser.add_argument('--unet', type=str, default='unet_latent', help='unet_latent')
@@ -626,7 +621,8 @@ def main():
     parser.add_argument('--sampling_mode', type=str, default='single_sampling', help='single_sampling (generate single image), paragraph (generate paragraph)')
     parser.add_argument('--lang', type=str, default= "ENG",help = "language") 
 
-    parser.add_argument('--stopFlag', type=str, default = "./flags/stopFlagCVL.txt",help ="flag to stop program") # partialLoad
+    parser.add_argument('--stopFlag', type=str, default = "./flags/stopFlagCVL.txt",help ="flag to stop program") 
+    
 
     #parser.add_argument('--dumpPath', type=str, default="/cluster/datastore/aniketag/allData/syntheticData/train/icdar2025/IAM/diffusionPen/CVL/")
     
